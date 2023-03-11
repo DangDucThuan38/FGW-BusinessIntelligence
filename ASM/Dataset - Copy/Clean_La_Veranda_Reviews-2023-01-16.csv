@@ -1,0 +1,1524 @@
+PositiveReview,NegativeReview,Score,GuestName,GuestCountry,RoomType,NumberOfNights,VisitDate,GroupType
+Reviewed,Reviewed,10,Olga,Norway,Budget Twin Room,1,Jun-22,Solo traveler
+Reviewed,Not Reviewed,10,Iwona,Poland,Double Room,3,Dec-22,Family
+Reviewed,Not Reviewed,8,Ruijia,Sweden,Double Room,1,Dec-22,Solo traveler
+Reviewed,Not Reviewed,9,Theprincem,United Kingdom,Double Room with Balcony,2,Sep-22,Solo traveler
+Reviewed,Not Reviewed,10,M,Switzerland,Family Suite with Balcony,1,Oct-22,Family
+Reviewed,Not Reviewed,9,Kim,United Kingdom,Double Room with Balcony,1,Dec-22,Couple
+Reviewed,Not Reviewed,8,Emma,United Kingdom,Two-Bedroom Suite,1,Oct-22,Family
+Reviewed,Reviewed,10,Yuriy,Cyprus,Double Room,1,Nov-22,Couple
+Reviewed,Reviewed,10,Hanna,Israel,Double Room,1,Nov-22,Family
+Reviewed,Not Reviewed,10,Nicholas,United Kingdom,Double Room,1,Dec-22,Solo traveler
+Reviewed,Not Reviewed,10,J,Thailand,Double Room with Balcony,3,Dec-22,Family
+Reviewed,Reviewed,10,Heidi,United Kingdom,Two-Bedroom Suite,1,Oct-22,Family
+Reviewed,Not Reviewed,10,Ofira,United States of America,Two-Bedroom Suite,7,Dec-22,Couple
+Reviewed,Reviewed,8,Damir,Bosnia and Herzegovina,Double Room,1,Nov-22,Couple
+Reviewed,Reviewed,9,Thomas,United Kingdom,Double Room with Balcony,1,Dec-22,Couple
+Reviewed,Not Reviewed,10,Sorin,United Kingdom,Double Room with Balcony,7,Nov-22,Group
+Reviewed,Reviewed,10,Miriam,Germany,Double Room with Balcony,1,Nov-22,Couple
+Reviewed,Reviewed,9,Thomas,United Kingdom,Double Room with Balcony,1,Nov-22,Couple
+Reviewed,Not Reviewed,8,Antti,Finland,Double Room with Balcony,1,Oct-22,Couple
+Reviewed,Not Reviewed,10,Ward,Israel,Budget Twin Room,4,Nov-22,Solo traveler
+Reviewed,Not Reviewed,10,Carolina,Netherlands,Double Room with Balcony,4,Nov-22,Solo traveler
+Reviewed,Reviewed,9,Sonya,United Kingdom,Double Room with Balcony,2,Nov-22,Solo traveler
+Reviewed,Not Reviewed,9,Jacqueline,Italy,Two-Bedroom Suite,1,Nov-22,Family
+Reviewed,Not Reviewed,10,Sophia,Greece,Double Room,1,Nov-22,Family
+Reviewed,Not Reviewed,10,Judit,Hungary,Budget Twin Room,1,Nov-22,Family
+Reviewed,Reviewed,10,J,Thailand,Double Room with Balcony,1,Nov-22,Family
+Reviewed,Reviewed,10,Theresa,Cyprus,Double Room with Balcony,1,Nov-22,Couple
+Reviewed,Reviewed,9,Sisakyan,Armenia,Double Room,1,Nov-22,Family
+Reviewed,Reviewed,9,Paraskevou,United States of America,Double Room with Balcony,1,Nov-22,Couple
+Reviewed,Reviewed,10,Karen,United Kingdom,Double Room,1,Nov-22,Couple
+Reviewed,Reviewed,10,Helen,United Kingdom,Double Room with Balcony,2,Nov-22,Couple
+Reviewed,Reviewed,10,Christina,Canada,Double Room with Balcony,2,Nov-22,Solo traveler
+Reviewed,Reviewed,10,Vasyl,Ukraine,Double Room with Balcony,4,Nov-22,Solo traveler
+Reviewed,Reviewed,8,David,United Kingdom,Suite with Balcony,2,Nov-22,Group
+Not Reviewed,Reviewed,8,G,Cyprus,Double Room,1,Nov-22,Family
+Reviewed,Reviewed,8,Victoria,Cyprus,Budget Twin Room,4,Oct-22,Couple
+Reviewed,Reviewed,9,Tim,United Kingdom,Double Room with Balcony,1,Nov-22,Couple
+Reviewed,Not Reviewed,10,Rebecca,United Kingdom,Two-Bedroom Suite,1,Nov-22,Group
+Reviewed,Not Reviewed,8,Aleksandr,Turkey,Two-Bedroom Suite,1,Oct-22,Solo traveler
+Reviewed,Reviewed,8,Paulo,Portugal,Double Room with Balcony,3,Oct-22,Solo traveler
+Reviewed,Reviewed,9,Anastasia,United Kingdom,Double Room with Balcony,1,Oct-22,Couple
+Reviewed,Reviewed,10,Joseph,Lebanon,Double Room with Balcony,5,Oct-22,Solo traveler
+Reviewed,Not Reviewed,8,Chahrazade,United Kingdom,Double Room,1,Oct-22,Solo traveler
+Reviewed,Reviewed,8,Moyra,United Kingdom,Double Room with Balcony,1,Oct-22,Solo traveler
+Reviewed,Reviewed,10,James,Ireland,Two-Bedroom Suite,1,Oct-22,Family
+Reviewed,Not Reviewed,10,Ronen,Israel,Double Room with Balcony,1,Oct-22,Couple
+Reviewed,Not Reviewed,9,Derek,United Kingdom,Double Room,1,Oct-22,Group
+Reviewed,Not Reviewed,9,M,Switzerland,Two-Bedroom Suite,1,Oct-22,Family
+Reviewed,Not Reviewed,9,Yafit,Israel,Two-Bedroom Suite,1,Oct-22,Family
+Reviewed,Reviewed,10,Sneaky,Cyprus,Double Room,1,Oct-22,Family
+Reviewed,Not Reviewed,10,Mauricio,United States of America,Two-Bedroom Suite,1,Oct-22,Group
+Reviewed,Reviewed,10,Hamidreza,Austria,Double Room with Balcony,1,Oct-22,Family
+Reviewed,Not Reviewed,10,Karina,Poland,Double Room,2,Oct-22,Solo traveler
+Reviewed,Not Reviewed,10,Nikos,Cyprus,Double Room with Balcony,1,Oct-22,Family
+Reviewed,Reviewed,9,Kateryna,Cyprus,Double Room with Balcony,1,Sep-22,Couple
+Reviewed,Reviewed,10,Ahmed,Belgium,Double Room with Balcony,1,Oct-22,Solo traveler
+Reviewed,Not Reviewed,10,Samuel,United States of America,Double Room with Balcony,1,Oct-22,Couple
+Reviewed,Reviewed,8,Itay,Israel,Double Room with Balcony,1,Oct-22,Family
+Reviewed,Reviewed,8,Edward,United Kingdom,Two-Bedroom Suite,1,Oct-22,Family
+Reviewed,Not Reviewed,10,Clare,United Kingdom,Double Room with Balcony,1,Sep-22,Family
+Reviewed,Reviewed,8,Stuart,United Kingdom,Double Room,1,Oct-22,Couple
+Reviewed,Reviewed,9,Lydia,Israel,Standard Triple Room,1,Oct-22,Family
+Reviewed,Reviewed,10,Philip,United Arab Emirates,Budget Twin Room,2,Oct-22,Solo traveler
+Reviewed,Reviewed,10,Nataliya,Israel,Double Room,1,Oct-22,Couple
+Reviewed,Reviewed,10,Joshua,United Kingdom,Double Room with Balcony,9,Oct-22,Couple
+Reviewed,Not Reviewed,9,Oonagh,Cyprus,Double Room,1,Oct-22,Couple
+Reviewed,Reviewed,8,Chouity,Qatar,Budget Twin Room,2,Oct-22,Solo traveler
+Reviewed,Not Reviewed,10,Julie,United Kingdom,Double Room,1,Oct-22,Solo traveler
+Reviewed,Not Reviewed,10,Ynaiim,Lebanon,Double Room with Balcony,1,Sep-22,Couple
+Reviewed,Reviewed,10,Sally,United Kingdom,Double Room with Balcony,3,Oct-22,Family
+Reviewed,Reviewed,10,Voko,Hungary,Double Room,2,Sep-22,Couple
+Reviewed,Not Reviewed,9,Michael,Lebanon,Double Room,1,Oct-22,Solo traveler
+Reviewed,Not Reviewed,10,Mads,Denmark,Double Room with Balcony,1,Sep-22,Solo traveler
+Reviewed,Reviewed,10,Yoana,Bulgaria,Double Room,1,Sep-22,Couple
+Not Reviewed,Reviewed,8,Juan,Cyprus,Double Room,1,Oct-22,Couple
+Reviewed,Not Reviewed,10,Marwan,Jordan,Double Room with Balcony,1,Oct-22,Solo traveler
+Reviewed,Reviewed,10,Hanna,Belarus,Double Room with Balcony,3,Oct-22,Solo traveler
+Reviewed,Reviewed,10,Kevin,United Kingdom,Standard Triple Room,1,Oct-22,Family
+Reviewed,Reviewed,10,Omid,United Arab Emirates,Double Room with Balcony,4,Oct-22,Family
+Reviewed,Not Reviewed,9,S,Netherlands,Budget Twin Room,1,Sep-22,Couple
+Reviewed,Reviewed,8,Zainab,United Kingdom,Two-Bedroom Suite,1,Sep-22,Group
+Reviewed,Not Reviewed,10,Patrycja,United States of America,Double Room with Balcony,1,Sep-22,Couple
+Reviewed,Reviewed,9,Vaghinak,Armenia,Double Room,3,Sep-22,Couple
+Reviewed,Reviewed,10,Deacon,United Kingdom,Double Room with Balcony,9,Sep-22,Solo traveler
+Reviewed,Reviewed,8,Nikolaj,Slovakia,Double Room with Balcony,7,Aug-22,Family
+Not Reviewed,Reviewed,9,Jacqui,United Kingdom,Double Room with Balcony,1,Sep-22,Couple
+Reviewed,Not Reviewed,10,Anna,United Kingdom,Double Room,1,Sep-22,Solo traveler
+Reviewed,Reviewed,9.6,Sarah,United Kingdom,Double Room with Balcony,1,Sep-22,Solo traveler
+Reviewed,Reviewed,10,Merrony,United Kingdom,Budget Twin Room,1,Sep-22,Family
+Reviewed,Reviewed,10,Kevin,United Kingdom,Budget Twin Room,1,Sep-22,Couple
+Reviewed,Not Reviewed,10,Andrea,United Kingdom,Double Room with Balcony,1,Sep-22,Couple
+Reviewed,Reviewed,8,Lina,Germany,Budget Twin Room,1,Sep-22,Couple
+Reviewed,Reviewed,8,Anne-caroline,France,Double Room with Balcony,1,Sep-22,Family
+Reviewed,Not Reviewed,10,Anna,Russia,Double Room with Balcony,2,Jun-22,Solo traveler
+Reviewed,Not Reviewed,9,Charlotte,United Kingdom,Double Room with Balcony,1,Sep-22,Couple
+Reviewed,Reviewed,9,Sharon,Israel,Double Room with Balcony,1,Sep-22,Couple
+Reviewed,Not Reviewed,9,Mr,United Kingdom,Double Room with Balcony,11,Sep-22,Couple
+Reviewed,Not Reviewed,9,Miriam,Czech Republic,Budget Twin Room,1,Sep-22,Solo traveler
+Reviewed,Reviewed,8,Flavio,Italy,Double Room with Balcony,1,Sep-22,Couple
+Reviewed,Not Reviewed,10,Pavel,Bulgaria,Double Room with Balcony,3,Sep-22,Couple
+Reviewed,Reviewed,9,Melissa,United Kingdom,Double Room,9,Aug-22,Group
+Reviewed,Reviewed,10,Michelle,Lebanon,Double Room,1,Sep-22,Couple
+Reviewed,Reviewed,8,Luca,Italy,Suite with Balcony,1,Aug-22,Group
+Reviewed,Not Reviewed,10,Taras,Ukraine,Double Room with Balcony,1,Sep-22,Family
+Reviewed,Reviewed,10,Nadja,Serbia,Double Room,1,Sep-22,Couple
+Reviewed,Reviewed,9,Lenka,Czech Republic,Two-Bedroom Suite,1,Sep-22,Family
+Reviewed,Reviewed,9,Rosalyn,Cyprus,Double Room with Balcony,1,Sep-22,Couple
+Reviewed,Reviewed,9,Kevin,United Kingdom,Double Room with Balcony,2,Sep-22,Couple
+Reviewed,Not Reviewed,10,Lisa,United Kingdom,Double Room with Balcony,1,Sep-22,Family
+Reviewed,Not Reviewed,10,Robchahine,Lebanon,Double Room,1,Sep-22,Solo traveler
+Reviewed,Reviewed,8,Cathy,Cyprus,Double Room,1,Sep-22,Couple
+Reviewed,Reviewed,9,Arunas,United Kingdom,Double Room,1,Aug-22,Couple
+Reviewed,Not Reviewed,10,Jelena,Serbia,Double Room,2,Aug-22,Family
+Reviewed,Reviewed,9,Gary,United Kingdom,Two-Bedroom Suite,1,Sep-22,Family
+Reviewed,Not Reviewed,10,Sasha,Serbia,Double Room,3,Sep-22,Solo traveler
+Reviewed,Not Reviewed,10,Petya,Austria,Standard Triple Room,1,Aug-22,Family
+Reviewed,Not Reviewed,8,Nicole,Austria,Double Room,1,Aug-22,Couple
+Reviewed,Not Reviewed,10,Ilan,Israel,Double Room with Balcony,1,Aug-22,Couple
+Reviewed,Reviewed,10,Alice,United Kingdom,Double Room,2,Jul-22,Solo traveler
+Reviewed,Reviewed,9,James,United States of America,Budget Twin Room,1,Aug-22,Group
+Reviewed,Reviewed,8,Marios,Cyprus,Double Room with Balcony,1,Aug-22,Couple
+Reviewed,Reviewed,10,Neo,United Kingdom,Double Room with Balcony,1,Aug-22,Couple
+Reviewed,Reviewed,9,Raanan,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Reviewed,Not Reviewed,10,Amal,Lebanon,Double Room with Balcony,1,Aug-22,Couple
+Reviewed,Reviewed,10,Dear_d,Serbia,Double Room with Balcony,9,Aug-22,Family
+Reviewed,Reviewed,9,Beatrice,Belgium,Double Room with Balcony,1,Aug-22,Solo traveler
+Reviewed,Not Reviewed,10,Parisimo,United Kingdom,Double Room with Balcony,1,Aug-22,Group
+Reviewed,Not Reviewed,10,Hassan,Lebanon,Double Room,1,Aug-22,Solo traveler
+Reviewed,Not Reviewed,10,Stalo,Cyprus,Double Room,1,Aug-22,Couple
+Reviewed,Not Reviewed,9,Darya,Cyprus,Double Room with Balcony,2,Aug-22,Solo traveler
+Reviewed,Reviewed,9,Ioan-cristian,Romania,Double Room with Balcony,4,Aug-22,Couple
+Reviewed,Not Reviewed,10,Cristina-,Netherlands,Double Room with Balcony,1,Aug-22,Solo traveler
+Reviewed,Reviewed,9,Ido,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Reviewed,Not Reviewed,10,Koulla,United Kingdom,Double Room with Balcony,12,Aug-22,Couple
+Reviewed,Not Reviewed,10,Andrzej,United Kingdom,Two-Bedroom Suite,1,Aug-22,Family
+Reviewed,Not Reviewed,10,Shalom,Israel,Family Suite with Balcony,1,Aug-22,Family
+Reviewed,Reviewed,9,Ilaria,Romania,Double Room,1,Aug-22,Couple
+Reviewed,Not Reviewed,10,Joanna,Poland,Double Room,2,Aug-22,Solo traveler
+Reviewed,Reviewed,8,Oren,Cyprus,Two-Bedroom Suite,1,Aug-22,Solo traveler
+Reviewed,Not Reviewed,10,Yulia,Russia,Double Room,1,Aug-22,Family
+Reviewed,Reviewed,10,Brigitta,United Kingdom,Two-Bedroom Suite,9,Aug-22,Family
+Reviewed,Reviewed,9,Ismail,France,Standard Triple Room,1,Aug-22,Group
+Reviewed,Not Reviewed,10,Andrew,United Kingdom,Two-Bedroom Suite,1,Aug-22,Group
+Reviewed,Not Reviewed,9,David,Israel,Suite with Balcony,1,Aug-22,Family
+Reviewed,Reviewed,10,Silviu,Romania,Double Room with Balcony,9,Aug-22,Couple
+Reviewed,Reviewed,10,Shaun,United Kingdom,Double Room with Balcony,1,Aug-22,Couple
+Reviewed,Not Reviewed,10,Elihana,United States of America,Standard Triple Room,1,May-22,Family
+Reviewed,Reviewed,10,Lisdy,Venezuela,Standard Triple Room,1,Jun-22,Family
+Reviewed,Reviewed,10,Lisa,United Kingdom,Double Room with Balcony,1,Aug-22,Couple
+Reviewed,Reviewed,10,Osher,Israel,Double Room,1,Aug-22,Couple
+Reviewed,Not Reviewed,10,Chiaki,United Kingdom,Standard Triple Room,1,Jul-22,Family
+Reviewed,Reviewed,9,Sapir,Israel,Double Room,1,Jul-22,Group
+Reviewed,Reviewed,10,Emma,United Kingdom,Two-Bedroom Suite,1,Jul-22,Family
+Reviewed,Reviewed,8,Kenneth,Spain,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Not Reviewed,10,Daniel,Spain,Double Room with Balcony,1,Jul-22,Family
+Reviewed,Not Reviewed,10,Alexandre,Lebanon,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Not Reviewed,10,Natalija,Slovenia,Standard Triple Room,2,Jul-22,Family
+Reviewed,Not Reviewed,10,Geraldine,Australia,Double Room,3,Jul-22,Solo traveler
+Reviewed,Not Reviewed,9,Jesper,Sweden,Double Room,1,Jul-22,Couple
+Reviewed,Reviewed,10,Rob,New Zealand,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Reviewed,10,Natalia,Cyprus,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Not Reviewed,9,Fabian,Germany,Double Room,1,Jun-22,Solo traveler
+Reviewed,Not Reviewed,10,Joanna,United Kingdom,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Reviewed,10,Joanna,United Kingdom,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Not Reviewed,10,Al-fulaij,Kuwait,Two-Bedroom Suite,1,Jul-22,Family
+Reviewed,Reviewed,10,Thakrar,Cyprus,Two-Bedroom Suite,1,Jul-22,Group
+Reviewed,Reviewed,10,Serge,Lebanon,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Not Reviewed,10,Victoria,Lebanon,Two-Bedroom Suite,1,Jul-22,Family
+Reviewed,Reviewed,10,Rebecca,United States of America,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Not Reviewed,10,Alexander,Israel,Double Room,1,Jul-22,Solo traveler
+Reviewed,Reviewed,9,Jakubfl_87,Czech Republic,Double Room,1,Jul-22,Couple
+Reviewed,Not Reviewed,10,Richard,Germany,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Reviewed,10,Miriam,United States of America,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Reviewed,10,Kristina,Cyprus,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Not Reviewed,10,Anna,Cyprus,Double Room with Balcony,1,Jul-22,Group
+Reviewed,Not Reviewed,8,Eva,Cyprus,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Reviewed,8,Antonio,Sweden,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Not Reviewed,10,Nancy,United Kingdom,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Reviewed,8,Blackers09,United Kingdom,Double Room with Balcony,1,Jun-22,Solo traveler
+Reviewed,Reviewed,8,Beliz,Cyprus,Double Room,1,Jul-22,Couple
+Reviewed,Not Reviewed,10,Diana,Cyprus,Suite with Balcony,1,Jul-22,Group
+Reviewed,Not Reviewed,10,Sigitas,Lithuania,Double Room with Balcony,1,Jul-22,Group
+Reviewed,Not Reviewed,9,Or,Germany,Double Room with Balcony,7,Jul-22,Solo traveler
+Reviewed,Not Reviewed,9,Florin,Romania,Standard Triple Room,7,Jul-22,Family
+Reviewed,Reviewed,10,Felisa,United States of America,Double Room with Balcony,2,Jul-22,Solo traveler
+Reviewed,Not Reviewed,9,Maria,United States of America,Budget Twin Room,1,Jul-22,Solo traveler
+Reviewed,Not Reviewed,10,Jonathan,United States of America,Double Room,1,Jul-22,Group
+Reviewed,Not Reviewed,10,Emma,United Kingdom,Double Room,1,Jul-22,Family
+Reviewed,Not Reviewed,10,Emma,United Kingdom,Two-Bedroom Suite,1,Jul-22,Family
+Reviewed,Reviewed,8,Rosalyn,Cyprus,Double Room,1,Jul-22,Couple
+Reviewed,Not Reviewed,9,Alastal,United Kingdom,Standard Triple Room,1,Jul-22,Family
+Reviewed,Not Reviewed,10,Jamar,France,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Not Reviewed,10,Raymond,United Kingdom,Suite with Balcony,1,Jul-22,Family
+Reviewed,Not Reviewed,9,Chris,Bulgaria,Double Room with Balcony,3,Jul-22,Couple
+Reviewed,Reviewed,10,George,United Kingdom,Double Room with Balcony,1,Jun-22,Solo traveler
+Not Reviewed,Reviewed,9,Dimo,Bulgaria,Budget Twin Room,3,Jun-22,Couple
+Reviewed,Not Reviewed,10,Edwin,Sweden,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Not Reviewed,10,Arash,Finland,Two-Bedroom Suite,8,Jul-22,Family
+Reviewed,Not Reviewed,10,Natalie,Cyprus,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Not Reviewed,10,Stelios,United Kingdom,Two-Bedroom Suite,4,Jun-22,Family
+Reviewed,Reviewed,9,Tomislav,"Abkhazia, ​Georgia",Two-Bedroom Suite,1,Jun-22,Family
+Reviewed,Not Reviewed,10,Kaya,Israel,Double Room with Balcony,1,Jun-22,Family
+Reviewed,Not Reviewed,10,Daniel,Finland,Double Room,1,Jun-22,Couple
+Reviewed,Not Reviewed,9,Lucinda,United Kingdom,Double Room with Balcony,1,Jun-22,Couple
+Reviewed,Not Reviewed,8,Nathan,Canada,Double Room with Balcony,1,Jun-22,Solo traveler
+Reviewed,Not Reviewed,9,Viktorijadan,United Kingdom,Double Room,1,Jun-22,Couple
+Reviewed,Not Reviewed,9,Mcgregor,United Kingdom,Double Room with Balcony,1,Jun-22,Solo traveler
+Reviewed,Reviewed,8,Ashraf,Israel,Budget Twin Room,3,Jun-22,Solo traveler
+Reviewed,Reviewed,8,Vandewiele,Bulgaria,Double Room with Balcony,1,Jun-22,Couple
+Reviewed,Not Reviewed,10,Екатерина,Russia,Family Suite with Balcony,1,Jun-22,Family
+Reviewed,Reviewed,10,Katarzyna,United Kingdom,Double Room,2,Jun-22,Couple
+Reviewed,Reviewed,10,Kelly,United Kingdom,Two-Bedroom Suite,1,May-22,Group
+Reviewed,Reviewed,8,Hutter,Romania,Double Room with Balcony,7,Jun-22,Family
+Reviewed,Not Reviewed,9,Joanna,United Kingdom,Double Room,1,May-22,Solo traveler
+Reviewed,Not Reviewed,9,Dean,United Kingdom,Double Room,1,May-22,Couple
+Reviewed,Not Reviewed,9,Xu,China,Double Room with Balcony,1,Jun-22,Couple
+Reviewed,Reviewed,10,Hadjikyriacou,Cyprus,Double Room with Balcony,1,Jun-22,Family
+Reviewed,Reviewed,10,Maria,Greece,Double Room with Balcony,1,May-22,Solo traveler
+Reviewed,Reviewed,10,Britta,Germany,Double Room with Balcony,1,Jun-22,Group
+Reviewed,Reviewed,9,Shaun,United Kingdom,Double Room with Balcony,2,Jun-22,Solo traveler
+Reviewed,Reviewed,9,Richard,United Kingdom,Double Room with Balcony,1,May-22,Couple
+Reviewed,Not Reviewed,9,Eliel,Israel,Double Room,1,Jun-22,Couple
+Reviewed,Not Reviewed,10,Maxime,France,Double Room with Balcony,1,Jun-22,Group
+Reviewed,Reviewed,9,Rosalyn,Cyprus,Double Room with Balcony,1,Jun-22,Couple
+Reviewed,Reviewed,10,Gary,United Kingdom,Double Room,1,Jun-22,Couple
+Reviewed,Reviewed,9,Travelling,Sweden,Double Room with Balcony,3,May-22,Couple
+Reviewed,Not Reviewed,10,Corinne,United Kingdom,Suite with Balcony,1,Jun-22,Family
+Reviewed,Reviewed,10,Jean-claude,Switzerland,Standard Triple Room,1,Jun-22,Family
+Reviewed,Not Reviewed,9,Sigitas,Lithuania,Suite with Balcony,1,Jun-22,Family
+Reviewed,Reviewed,9,Michelle,United Kingdom,Double Room with Balcony,1,May-22,Couple
+Reviewed,Not Reviewed,9,Allan,Cyprus,Double Room with Balcony,1,May-22,Couple
+Reviewed,Reviewed,10,Baldur,Iceland,Two-Bedroom Suite,1,May-22,Family
+Reviewed,Reviewed,9,Leah,United Kingdom,Suite with Balcony,1,May-22,Family
+Reviewed,Reviewed,10,Mark,United Kingdom,Double Room with Balcony,3,May-22,Couple
+Reviewed,Not Reviewed,10,Marwan,Jordan,Double Room with Balcony,4,May-22,Solo traveler
+Reviewed,Reviewed,10,David,Australia,Double Room,1,May-22,Solo traveler
+Reviewed,Not Reviewed,10,Caren,United Kingdom,Double Room,1,May-22,Group
+Reviewed,Reviewed,8,Yoojin,Finland,Double Room,1,May-22,Couple
+Reviewed,Reviewed,8,Nicholas,United Kingdom,Double Room,2,May-22,Solo traveler
+Reviewed,Reviewed,10,Anna,United Kingdom,Double Room with Balcony,2,May-22,Solo traveler
+Reviewed,Reviewed,9,Lauralaura,Belgium,Double Room,1,May-22,Solo traveler
+Reviewed,Reviewed,8,Tatiana,Cyprus,Double Room with Balcony,1,May-22,Group
+Reviewed,Reviewed,10,Melanie,United Kingdom,Double Room with Balcony,1,May-22,Couple
+Not Reviewed,Reviewed,8,Georges,Lebanon,Double Room with Balcony,1,May-22,Couple
+Reviewed,Reviewed,10,Andrei,Romania,Double Room with Balcony,7,May-22,Couple
+Reviewed,Reviewed,9,Cynthia,United States of America,Double Room with Balcony,1,May-22,Family
+Reviewed,Reviewed,10,Jose,United Kingdom,Double Room with Balcony,1,May-22,Couple
+Reviewed,Reviewed,10,Diana,Czech Republic,Double Room with Balcony,1,May-22,Solo traveler
+Reviewed,Not Reviewed,9,Antony,Cyprus,Budget Twin Room,2,May-22,Couple
+Reviewed,Not Reviewed,10,Bschleifer,United States of America,Double Room with Balcony,1,May-22,Group
+Reviewed,Not Reviewed,10,Silvester,Slovenia,Double Room,1,May-22,Couple
+Reviewed,Not Reviewed,8,Cathy,Cyprus,Double Room with Balcony,1,May-22,Couple
+Reviewed,Reviewed,9,Maha,Cyprus,Double Room,1,May-22,Solo traveler
+Reviewed,Reviewed,10,Roger,United Kingdom,Double Room with Balcony,2,Apr-22,Couple
+Reviewed,Not Reviewed,10,Olga,Germany,Double Room with Balcony,1,May-22,Couple
+Reviewed,Reviewed,9,Amanda,United Kingdom,Double Room,1,May-22,Couple
+Reviewed,Not Reviewed,9,Lorraine,United Kingdom,Double Room,1,Apr-22,Couple
+Reviewed,Reviewed,10,Kata,Hungary,Double Room,2,Apr-22,Couple
+Reviewed,Reviewed,10,Tom,United Kingdom,Double Room with Balcony,1,Apr-22,Couple
+Reviewed,Not Reviewed,9,Laszlo,Hungary,Suite with Balcony,3,Apr-22,Family
+Reviewed,Not Reviewed,10,Phil,Germany,Family Suite with Balcony,1,Apr-22,Group
+Reviewed,Reviewed,10,Roger,United Kingdom,Double Room with Balcony,1,Apr-22,Couple
+Reviewed,Not Reviewed,10,Anita,Czech Republic,Family Suite with Balcony,1,Apr-22,Family
+Reviewed,Not Reviewed,8,Bahar,Cyprus,Standard Triple Room,1,Apr-22,Family
+Reviewed,Not Reviewed,8,Line,United Kingdom,Double Room with Balcony,1,Apr-22,Couple
+Reviewed,Not Reviewed,9,טוהר,Israel,Double Room,3,Apr-22,Couple
+Reviewed,Not Reviewed,8,Rohini,United Kingdom,Family Suite with Balcony,1,Mar-22,Family
+Reviewed,Reviewed,10,Ian,United Kingdom,Double Room with Balcony,5,Apr-22,Couple
+Reviewed,Reviewed,10,Esme,United Kingdom,Standard Triple Room,1,Apr-22,Family
+Reviewed,Not Reviewed,9,Olena,Ukraine,Double Room,3,Feb-22,Family
+Reviewed,Not Reviewed,10,Hikmat,Lebanon,Double Room,1,Apr-22,Solo traveler
+Reviewed,Reviewed,10,Joe,Lebanon,Double Room,1,Apr-22,Solo traveler
+Reviewed,Not Reviewed,10,Charbel,France,Double Room,1,Apr-22,Solo traveler
+Reviewed,Not Reviewed,10,Dayane,Lebanon,Double Room,1,Apr-22,Solo traveler
+Reviewed,Not Reviewed,10,Dayane,Lebanon,Double Room,1,Apr-22,Solo traveler
+Reviewed,Reviewed,8,Andrew,United Kingdom,Double Room with Balcony,2,Mar-22,Solo traveler
+Reviewed,Reviewed,9,Yogev,Israel,Double Room,4,Mar-22,Solo traveler
+Reviewed,Not Reviewed,9,Sophie,Austria,Double Room,1,Mar-22,Couple
+Reviewed,Not Reviewed,8,Timothy,United States of America,Double Room with Balcony,1,Mar-22,Couple
+Reviewed,Reviewed,8,Katie,United Kingdom,Two-Bedroom Suite,1,Feb-22,Family
+Reviewed,Not Reviewed,10,Lisa,United Kingdom,Double Room,1,Feb-22,Solo traveler
+Reviewed,Not Reviewed,9,Joanna,Poland,Double Room,1,Feb-22,Couple
+Reviewed,Reviewed,10,Ukd03,United Kingdom,Double Room,1,Feb-22,Solo traveler
+Reviewed,Reviewed,8,Jennifer,France,Family Suite with Balcony,1,Feb-22,Family
+Reviewed,Reviewed,8,Rumen,Bulgaria,Double Room,1,Feb-22,Solo traveler
+Reviewed,Not Reviewed,9,Andrew,United Kingdom,Double Room with Balcony,1,Feb-22,Group
+Reviewed,Reviewed,8,Cyprus007,Cyprus,Double Room with Balcony,1,Jan-22,Couple
+Reviewed,Not Reviewed,8,Mirosław,Poland,Double Room with Balcony,1,Dec-21,Group
+Reviewed,Reviewed,10,Shuowei,United Kingdom,Double Room,1,Dec-21,Solo traveler
+Reviewed,Not Reviewed,10,Yazmina,United Kingdom,Double Room,1,Dec-21,Solo traveler
+Reviewed,Not Reviewed,10,Vitaliy,Ukraine,Standard Triple Room,1,Dec-21,Family
+Reviewed,Reviewed,8,Terence,Cyprus,Double Room with Balcony,1,Dec-21,Couple
+Reviewed,Reviewed,10,Gerard,Ireland,Double Room,1,Dec-21,Solo traveler
+Reviewed,Reviewed,8,Luca,Netherlands,Double Room,1,Nov-21,Couple
+Reviewed,Reviewed,10,Yulia,Russia,Double Room with Balcony,9,Dec-21,Solo traveler
+Not Reviewed,Reviewed,10,Chrystalla,Cyprus,Double Room with Balcony,1,Dec-21,Solo traveler
+Reviewed,Not Reviewed,10,Jorge,United Kingdom,Double Room,1,Dec-21,Couple
+Reviewed,Not Reviewed,10,Xinyue,United Kingdom,Double Room,1,Nov-21,Couple
+Reviewed,Not Reviewed,10,Ziad,Lebanon,Double Room,1,Nov-21,Solo traveler
+Reviewed,Reviewed,10,Fouad,Lebanon,Double Room with Balcony,1,Nov-21,Solo traveler
+Reviewed,Not Reviewed,10,Aline,Lebanon,Double Room,1,Nov-21,Couple
+Reviewed,Not Reviewed,9,Martin,United Kingdom,Two-Bedroom Suite,1,Nov-21,Family
+Reviewed,Not Reviewed,10,Matteo,Switzerland,Double Room with Balcony,5,Nov-21,Couple
+Reviewed,Reviewed,10,Elya,Lebanon,Double Room,1,Nov-21,Solo traveler
+Reviewed,Not Reviewed,10,Josh,Canada,Double Room,1,Oct-21,Couple
+Not Reviewed,Reviewed,10,Amin,Israel,Two-Bedroom Suite,1,Nov-21,Family
+Reviewed,Not Reviewed,9,Trezesa,Czech Republic,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Reviewed,9,Anita,United Kingdom,Double Room with Balcony,3,Nov-21,Solo traveler
+Reviewed,Not Reviewed,9,Irena,Czech Republic,Double Room with Balcony,1,Oct-21,Solo traveler
+Reviewed,Reviewed,10,Alexander,Russia,Family Suite with Balcony,1,Oct-21,Family
+Reviewed,Reviewed,9,Chris,United Kingdom,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Reviewed,9,Mary,Spain,Double Room,2,Oct-21,Family
+Reviewed,Not Reviewed,10,Elias,Belgium,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Reviewed,10,Andrei,Netherlands,Double Room with Balcony,1,Oct-21,Family
+Reviewed,Not Reviewed,10,Theodora,United Kingdom,Double Room with Balcony,5,Oct-21,Couple
+Reviewed,Reviewed,10,Roland,United Kingdom,Double Room with Balcony,1,Oct-21,Solo traveler
+Reviewed,Reviewed,9,Lynne,Spain,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Reviewed,9,Bettina,Denmark,Family Suite with Balcony,1,Oct-21,Family
+Reviewed,Not Reviewed,9,Julie,Denmark,Double Room with Balcony,1,Oct-21,Solo traveler
+Reviewed,Not Reviewed,9,John,United Kingdom,Double Room with Balcony,1,Sep-21,Solo traveler
+Reviewed,Not Reviewed,9,Simon,United Kingdom,Double Room with Balcony,1,Oct-21,Solo traveler
+Reviewed,Reviewed,10,Christina,United States of America,Family Suite with Balcony,1,Oct-21,Group
+Reviewed,Reviewed,8,Kim,Jordan,Double Room with Balcony,1,Oct-21,Solo traveler
+Reviewed,Reviewed,8,Diana,Romania,Double Room with Balcony,1,Oct-21,Group
+Reviewed,Reviewed,10,Andrii,Ukraine,Two-Bedroom Suite,1,Oct-21,Group
+Reviewed,Not Reviewed,9,Alina,Ukraine,Double Room with Balcony,1,Oct-21,Solo traveler
+Reviewed,Not Reviewed,9,Dino,Sweden,Double Room,1,Oct-21,Couple
+Reviewed,Reviewed,9,Gábor,Hungary,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Not Reviewed,9,Spartak,Ukraine,Double Room with Balcony,7,Oct-21,Couple
+Reviewed,Reviewed,10,Helga,Germany,Double Room with Balcony,4,Oct-21,Solo traveler
+Reviewed,Reviewed,10,Anna,United Kingdom,Double Room with Balcony,1,Oct-21,Group
+Reviewed,Reviewed,9,Larisa,United Kingdom,Double Room,1,Sep-21,Solo traveler
+Reviewed,Reviewed,10,George,United States of America,Double Room,1,Oct-21,Couple
+Reviewed,Reviewed,10,Louise,Qatar,Double Room with Balcony,2,Oct-21,Solo traveler
+Reviewed,Not Reviewed,10,Teena,United Kingdom,Double Room with Balcony,1,Sep-21,Couple
+Reviewed,Reviewed,10,Tonia,United Kingdom,Double Room with Balcony,1,Sep-21,Couple
+Reviewed,Reviewed,9,Morgan,Australia,Double Room,1,Sep-21,Solo traveler
+Reviewed,Reviewed,9,Dimitrios,Cyprus,Double Room with Balcony,2,Sep-21,Couple
+Reviewed,Reviewed,10,Yulia,Russia,Double Room with Balcony,14,Sep-21,Solo traveler
+Reviewed,Reviewed,10,Dundon,United Kingdom,Standard Triple Room,2,Jul-21,Solo traveler
+Reviewed,Not Reviewed,10,Natasha,United Kingdom,Double Room,12,Aug-21,Couple
+Reviewed,Not Reviewed,10,Alexandra,Russia,Double Room with Balcony,1,Sep-21,Group
+Reviewed,Reviewed,9,Adam,United Kingdom,Standard Triple Room,3,Sep-21,Couple
+Reviewed,Reviewed,9,Ian,United Kingdom,Double Room,7,Sep-21,Solo traveler
+Reviewed,Not Reviewed,10,Huong,United Kingdom,Double Room with Balcony,1,Sep-21,Solo traveler
+Reviewed,Reviewed,10,Graeme,United Kingdom,Double Room with Balcony,1,Sep-21,Couple
+Reviewed,Reviewed,10,Graeme,United Kingdom,Double Room,1,Sep-21,Couple
+Reviewed,Reviewed,8,Eben,United Kingdom,Double Room with Balcony,1,Sep-21,Solo traveler
+Reviewed,Reviewed,9,Jacek,Poland,Double Room with Balcony,4,Sep-21,Couple
+Reviewed,Reviewed,9,Karen,Cyprus,Double Room with Balcony,1,Sep-21,Couple
+Reviewed,Not Reviewed,10,Leanne,United Kingdom,Double Room with Balcony,1,Sep-21,Family
+Reviewed,Not Reviewed,10,Josef,Czech Republic,Double Room,1,Sep-21,Group
+Reviewed,Reviewed,9,World,Spain,Double Room with Balcony,1,Sep-21,Solo traveler
+Reviewed,Not Reviewed,10,Kamal,United Arab Emirates,Double Room with Balcony,1,Sep-21,Solo traveler
+Reviewed,Reviewed,9,Daniel,Russia,Double Room with Balcony,1,Sep-21,Family
+Reviewed,Not Reviewed,10,Angela,United Kingdom,Double Room with Balcony,3,Sep-21,Family
+Reviewed,Not Reviewed,9,Rami,Lebanon,Double Room with Balcony,1,Sep-21,Couple
+Reviewed,Reviewed,8,Snezana,Slovakia,Standard Triple Room,1,Aug-21,Group
+Reviewed,Reviewed,10,Charles,Australia,Double Room with Balcony,1,Aug-21,Solo traveler
+Reviewed,Not Reviewed,10,Ann,Norway,Double Room with Balcony,1,Aug-21,Solo traveler
+Reviewed,Not Reviewed,8,Raymond,Angola,Double Room with Balcony,4,Aug-21,Couple
+Reviewed,Not Reviewed,10,Jarosław,Poland,Double Room with Balcony,4,Aug-21,Couple
+Reviewed,Not Reviewed,10,Hunor,Hungary,Double Room with Balcony,1,Aug-21,Couple
+Reviewed,Not Reviewed,10,Adam,United Kingdom,Standard Triple Room,1,Aug-21,Family
+Reviewed,Not Reviewed,9,Seppo,Austria,Standard Triple Room,1,Jul-21,Family
+Reviewed,Not Reviewed,10,Alan,United Kingdom,Double Room with Balcony,1,Aug-21,Couple
+Reviewed,Not Reviewed,10,Jose,Spain,Two-Bedroom Suite,1,Aug-21,Family
+Reviewed,Reviewed,10,Dina,Germany,Standard Triple Room,3,Aug-21,Group
+Reviewed,Reviewed,8,Abdulmalik,Saudi Arabia,Double Room with Balcony,1,Aug-21,Couple
+Reviewed,Reviewed,10,Sonia,United Kingdom,Double Room with Balcony,1,Aug-21,Couple
+Reviewed,Reviewed,10,Anastasiiy,Ukraine,Family Suite with Balcony,5,Aug-21,Group
+Reviewed,Reviewed,9,Anton,Lithuania,Double Room with Balcony,1,Aug-21,Solo traveler
+Reviewed,Not Reviewed,10,Irina,Russia,Double Room with Balcony,1,Jul-21,Couple
+Reviewed,Reviewed,10,Kelly,United Kingdom,Double Room,2,Aug-21,Family
+Reviewed,Not Reviewed,8,Rewa,United Kingdom,Double Room with Balcony,1,Aug-21,Solo traveler
+Reviewed,Not Reviewed,10,Zoe,United Kingdom,Double Room with Balcony,2,Aug-21,Family
+Reviewed,Not Reviewed,10,Konstantinos,Cyprus,Double Room,2,Aug-21,Couple
+Reviewed,Not Reviewed,10,Joseph,France,Double Room with Balcony,5,Aug-21,Solo traveler
+Reviewed,Not Reviewed,10,Stanislav,Russia,Family Suite with Balcony,1,Aug-21,Family
+Reviewed,Reviewed,10,Josef,Czech Republic,Double Room with Balcony,1,Jul-21,Couple
+Reviewed,Not Reviewed,10,Pavlos,United Kingdom,Double Room with Balcony,1,Aug-21,Couple
+Reviewed,Not Reviewed,8,Méli,Lebanon,Double Room with Balcony,1,Aug-21,Couple
+Reviewed,Reviewed,10,Alexey,Ukraine,Two-Bedroom Suite,1,Aug-21,Family
+Reviewed,Not Reviewed,10,Jad,Saudi Arabia,Double Room with Balcony,1,Aug-21,Solo traveler
+Reviewed,Not Reviewed,10,Mo,United Kingdom,Double Room with Balcony,1,Aug-21,Solo traveler
+Reviewed,Reviewed,10,Christiana,United States of America,Two-Bedroom Suite,1,Aug-21,Family
+Reviewed,Reviewed,10,Ben,United Kingdom,Family Suite with Balcony,1,Jul-21,Family
+Reviewed,Reviewed,10,Nikolaos,United Arab Emirates,Double Room with Balcony,1,Aug-21,Solo traveler
+Reviewed,Reviewed,10,Rita,Lebanon,Double Room with Balcony,1,Jul-21,Family
+Reviewed,Not Reviewed,9,Imran,United Arab Emirates,Family Suite with Balcony,1,Jul-21,Family
+Reviewed,Reviewed,9,Denis,Cyprus,Double Room with Balcony,1,Jul-21,Family
+Reviewed,Not Reviewed,10,Demid,Cyprus,Standard Triple Room,1,Jul-21,Family
+Reviewed,Not Reviewed,8,Vanessa,Malta,Double Room with Balcony,2,Jul-21,Family
+Reviewed,Not Reviewed,10,Nicky,United Kingdom,Double Room with Balcony,11,Jul-21,Group
+Reviewed,Not Reviewed,10,Alejandro,Germany,Double Room with Balcony,1,Jul-21,Solo traveler
+Reviewed,Reviewed,8,Antreasp,Cyprus,Double Room with Balcony,1,Jun-21,Solo traveler
+Reviewed,Not Reviewed,8,Vanessa,Malta,Double Room with Balcony,1,Jul-21,Family
+Reviewed,Reviewed,8,Graham,Cyprus,Double Room with Balcony,1,Jul-21,Solo traveler
+Reviewed,Reviewed,10,Walid,Saudi Arabia,Standard Triple Room,1,Jul-21,Solo traveler
+Reviewed,Reviewed,8,Kateryna,Ukraine,Standard Triple Room,6,Jul-21,Couple
+Reviewed,Not Reviewed,9,Anna,Cyprus,Double Room with Balcony,1,Jul-21,Solo traveler
+Reviewed,Not Reviewed,10,Sarah,Lebanon,Double Room with Balcony,1,Jul-21,Family
+Reviewed,Not Reviewed,10,Fadi,Czech Republic,Double Room with Balcony,1,Jul-21,Family
+Reviewed,Reviewed,9,Michał,Malta,Double Room with Balcony,1,Jul-21,Group
+Reviewed,Reviewed,10,Chris,Cyprus,Double Room with Balcony,4,Jul-21,Solo traveler
+Reviewed,Reviewed,8,Yuliya,Israel,Double Room with Balcony,5,Jul-21,Solo traveler
+Reviewed,Not Reviewed,8,Paul,United Kingdom,Double Room with Balcony,1,Jul-21,Solo traveler
+Reviewed,Not Reviewed,10,Isaac,Switzerland,Double Room with Balcony,2,Jul-21,Solo traveler
+Reviewed,Not Reviewed,10,Ghada,Bahrain,Double Room with Balcony,1,Jul-21,Solo traveler
+Reviewed,Reviewed,10,James,United Kingdom,Double Room with Balcony,3,Jul-21,Couple
+Reviewed,Not Reviewed,10,Giannis,Cyprus,Double Room with Balcony,1,Jun-21,Group
+Reviewed,Reviewed,10,Leonid,Lithuania,Double Room with Balcony,3,Jun-21,Solo traveler
+Reviewed,Not Reviewed,10,Tamba,Ireland,Double Room with Balcony,2,Jul-21,Group
+Reviewed,Not Reviewed,9,Jami,United States of America,Two-Bedroom Suite,4,Jun-21,Family
+Reviewed,Not Reviewed,10,Guy,Germany,Double Room with Balcony,1,Jun-21,Couple
+Reviewed,Not Reviewed,10,Theofano,Cyprus,Double Room with Balcony,1,Jun-21,Group
+Reviewed,Reviewed,8,Sergey,Russia,Double Room with Balcony,1,Jun-21,Couple
+Reviewed,Not Reviewed,9,Viktor,Bulgaria,Double Room with Balcony,1,Jun-21,Solo traveler
+Reviewed,Reviewed,10,Dmytro,Ireland,Double Room with Balcony,1,Jun-21,Solo traveler
+Reviewed,Not Reviewed,10,Evgeny,Israel,Double Room with Balcony,1,Jun-21,Solo traveler
+Reviewed,Reviewed,10,Jayk,Canada,Double Room with Balcony,1,May-21,Solo traveler
+Reviewed,Not Reviewed,10,Johan,Denmark,Double Room with Balcony,1,May-21,Couple
+Reviewed,Reviewed,10,Miguel,United Arab Emirates,Double Room with Balcony,1,May-21,Solo traveler
+Reviewed,Not Reviewed,7,David,United States of America,Suite with Balcony,1,Nov-22,Family
+Reviewed,Reviewed,5,Nicky,United Kingdom,Double Room with Balcony,5,Nov-22,Group
+Reviewed,Reviewed,7,Regina,United Kingdom,Double Room with Balcony,6,Nov-22,Solo traveler
+Reviewed,Reviewed,7,Sally,United Kingdom,Double Room with Balcony,1,Nov-22,Group
+Reviewed,Reviewed,6,Joanna,United Kingdom,Budget Twin Room,1,Nov-22,Group
+Reviewed,Reviewed,6,Charis,Cyprus,Double Room with Balcony,1,Oct-22,Solo traveler
+Reviewed,Reviewed,7,Davit,Armenia,Budget Twin Room,1,Oct-22,Family
+Reviewed,Reviewed,6,Markos,United States of America,Double Room with Balcony,2,Aug-22,Solo traveler
+Reviewed,Reviewed,7,Cemre,Cyprus,Two-Bedroom Suite,1,Sep-22,Group
+Reviewed,Reviewed,4,Sokratis,Cyprus,Double Room with Balcony,1,Sep-22,Couple
+Reviewed,Reviewed,7,Sonja,Germany,Standard Triple Room,1,Sep-22,Family
+Reviewed,Reviewed,3,Lior,Israel,Two-Bedroom Suite,1,Sep-22,Family
+Reviewed,Reviewed,4,Dragan,Egypt,Double Room with Balcony,1,Aug-22,Family
+Reviewed,Reviewed,7,La_venia,Germany,Two-Bedroom Suite,4,Aug-22,Couple
+Reviewed,Reviewed,6,Maria,Cyprus,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Reviewed,7,Alexander,United Kingdom,Double Room,1,Apr-22,Solo traveler
+Reviewed,Reviewed,6,Eric,Germany,Double Room with Balcony,3,Apr-22,Solo traveler
+Reviewed,Reviewed,7,Daria,Denmark,Double Room,1,Mar-22,Solo traveler
+Reviewed,Reviewed,7,Dave,United Kingdom,Two-Bedroom Suite,1,Mar-22,Family
+Reviewed,Reviewed,5,Rhiannon,United Kingdom,Double Room,1,Jan-22,Solo traveler
+Reviewed,Reviewed,6,Samira,United Kingdom,Double Room with Balcony,1,Nov-21,Couple
+Reviewed,Reviewed,7,Mariia,Poland,Standard Triple Room,1,Oct-21,Family
+Reviewed,Not Reviewed,6,Ian,Cyprus,Double Room with Balcony,1,Nov-21,Solo traveler
+Reviewed,Reviewed,7,Neil,United Kingdom,Double Room,1,Nov-21,Solo traveler
+Reviewed,Reviewed,7,Eleni,United Kingdom,Double Room with Balcony,3,Oct-21,Couple
+Reviewed,Reviewed,7,Karlijn,Netherlands,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Not Reviewed,7,Egonab,Jordan,Double Room with Balcony,1,Sep-21,Solo traveler
+Reviewed,Reviewed,5,Hanro,Cyprus,Double Room with Balcony,1,Sep-21,Solo traveler
+Reviewed,Reviewed,7,Christopher,United Kingdom,Double Room with Balcony,1,Sep-21,Solo traveler
+Reviewed,Reviewed,1,Alexandra,United Kingdom,Family Suite with Balcony,2,Sep-21,Couple
+Not Reviewed,Reviewed,7,Marcin,Poland,Double Room with Balcony,2,Aug-21,Solo traveler
+Reviewed,Reviewed,5,Laura,Switzerland,Family Suite with Balcony,1,Aug-21,Family
+Reviewed,Reviewed,7,Amritha,United Arab Emirates,Standard Triple Room,2,Jul-21,Group
+Reviewed,Reviewed,7,Wael,Qatar,Double Room,1,Aug-21,Solo traveler
+Reviewed,Reviewed,5,Essam,United Arab Emirates,Double Room with Balcony,2,Jul-21,Solo traveler
+Reviewed,Reviewed,7,Maria,France,Double Room with Balcony,1,Jul-21,Couple
+Reviewed,Reviewed,7,Angeliki,Greece,Double Room with Balcony,3,Jul-21,Solo traveler
+Reviewed,Reviewed,4,Maria,United States of America,Standard Triple Room,3,Jul-21,Family
+Reviewed,Not Reviewed,10,Anonymous,United Kingdom,,3,Jul-22,Family
+Reviewed,Not Reviewed,9,Anonymous,United Kingdom,,1,Jun-22,Family
+Reviewed,Reviewed,8,Anonymous,United Kingdom,,1,Jun-22,Group
+Reviewed,Reviewed,10,Anonymous,United States of America,,1,Nov-21,Solo traveler
+Reviewed,Not Reviewed,8,Anonymous,Russia,,1,Oct-21,Family
+Reviewed,Reviewed,10,Anonymous,Hungary,,1,Sep-21,Solo traveler
+Reviewed,Reviewed,9,Anonymous,Czech Republic,,1,Sep-21,Solo traveler
+Reviewed,Not Reviewed,10,Anonymous,Australia,,1,Sep-21,Group
+Reviewed,Not Reviewed,8,Anonymous,United Kingdom,,1,Aug-21,Family
+Reviewed,Reviewed,10,Anonymous,United Kingdom,,1,Aug-21,Solo traveler
+Reviewed,Not Reviewed,10,Anonymous,Germany,,1,Jul-21,Family
+Reviewed,Not Reviewed,10,Anonymous,Cyprus,,1,Jun-21,Solo traveler
+Reviewed,Reviewed,1,Anonymous,Cyprus,,1,Sep-21,Couple
+Reviewed,Reviewed,8,Akiva,Israel,Double Room with Balcony,4,Dec-22,Solo traveler
+Reviewed,Not Reviewed,10,Moshe,Israel,Double Room with Balcony,1,Dec-22,Group
+Reviewed,Not Reviewed,10,Liron,Israel,Double Room,1,Dec-22,Family
+Reviewed,Not Reviewed,10,Liron,Israel,Double Room,1,Dec-22,Family
+Reviewed,Not Reviewed,10,Thomas,Switzerland,Double Room with Balcony,1,Nov-22,Solo traveler
+Reviewed,Reviewed,9,Mariane,France,Double Room,1,Nov-22,Couple
+Reviewed,Reviewed,10,Orly,Israel,Double Room,1,Nov-22,Solo traveler
+Reviewed,Reviewed,8,Vladimira,Slovakia,Standard Triple Room,1,Nov-22,Family
+Reviewed,Reviewed,9,Jana,Bulgaria,Two-Bedroom Suite,2,Sep-22,Group
+Reviewed,Reviewed,8,Lioval,France,Double Room,1,Nov-22,Family
+Reviewed,Not Reviewed,10,Simandan,Romania,Double Room,1,Nov-22,Family
+Reviewed,Reviewed,9,Israel,Israel,Double Room with Balcony,1,Nov-22,Family
+Reviewed,Not Reviewed,10,Abd,France,Double Room with Balcony,1,Nov-22,Family
+Reviewed,Not Reviewed,10,Anja,Austria,Budget Twin Room,3,Oct-22,Group
+Reviewed,Not Reviewed,9,Alessio,France,Double Room,1,Nov-22,Solo traveler
+Reviewed,Reviewed,10,Roland,Belgium,Family Suite with Balcony,1,Nov-22,Family
+Reviewed,Reviewed,8,Audrey,France,Two-Bedroom Suite,1,Oct-22,Family
+Reviewed,Reviewed,8,Nicolas,France,Standard Triple Room,2,Nov-22,Family
+Reviewed,Not Reviewed,10,Екатерина,Russia,Double Room,2,Oct-22,Solo traveler
+Reviewed,Not Reviewed,9,Evangelos,Greece,Double Room,1,Oct-22,Couple
+Reviewed,Not Reviewed,10,Chik,Israel,Family Suite with Balcony,2,Sep-22,Family
+Reviewed,Not Reviewed,9,Mateusz,Poland,Suite with Balcony,1,Oct-22,Family
+Reviewed,Not Reviewed,9,Melanie,Austria,Standard Triple Room,1,Oct-22,Couple
+Reviewed,Reviewed,9,Franck,France,Double Room with Balcony,1,Oct-22,Family
+Reviewed,Not Reviewed,10,Oleh,Ukraine,Double Room,1,Oct-22,Couple
+Reviewed,Reviewed,8,Belen,Spain,Two-Bedroom Suite,3,Sep-22,Family
+Not Reviewed,Not Reviewed,10,Amir,Israel,Standard Triple Room,1,Oct-22,Family
+Reviewed,Reviewed,9,אוהד,Israel,Two-Bedroom Suite,1,Oct-22,Family
+Reviewed,Not Reviewed,10,Heidi,Denmark,Double Room,2,Oct-22,Family
+Reviewed,Reviewed,10,Yulia,Israel,Double Room,1,Oct-22,Family
+Reviewed,Not Reviewed,10,Mira,Israel,Double Room with Balcony,3,Oct-22,Group
+Reviewed,Not Reviewed,8,Winfried,Germany,Budget Twin Room,1,Sep-22,Couple
+Reviewed,Reviewed,9,Danilo,Italy,Double Room with Balcony,1,Sep-22,Solo traveler
+Reviewed,Reviewed,9,Martin,Czech Republic,Double Room,1,Oct-22,Couple
+Reviewed,Not Reviewed,9,Andrea,Italy,Double Room with Balcony,2,Oct-22,Couple
+Reviewed,Not Reviewed,10,Zaruhi,France,Double Room,1,Sep-22,Solo traveler
+Reviewed,Reviewed,8,Alon,Israel,Double Room,1,Oct-22,Family
+Reviewed,Reviewed,10,Rossatti,Italy,Double Room,1,Oct-22,Family
+Reviewed,Not Reviewed,9,Hagit,Israel,Double Room with Balcony,1,Oct-22,Family
+Reviewed,Reviewed,8,Ramy_weidenfeld,Israel,Two-Bedroom Suite,1,Oct-22,Family
+Reviewed,Not Reviewed,10,Shirley,Israel,Standard Triple Room,1,Oct-22,Family
+Reviewed,Not Reviewed,9,Aurel,Austria,Budget Twin Room,5,Sep-22,Couple
+Reviewed,Not Reviewed,10,Maria,France,Double Room,1,Oct-22,Solo traveler
+Reviewed,Reviewed,9,Hugues,France,Double Room,1,Oct-22,Couple
+Reviewed,Not Reviewed,10,Eliahu,Israel,Standard Triple Room,3,Oct-22,Family
+Reviewed,Not Reviewed,10,Brigitte,France,Budget Twin Room,1,Oct-22,Family
+Reviewed,Reviewed,10,Sindy,France,Double Room with Balcony,1,Oct-22,Family
+Reviewed,Reviewed,9,Batya,Israel,Double Room with Balcony,1,Oct-22,Couple
+Reviewed,Not Reviewed,10,Esma,France,Double Room with Balcony,2,Oct-22,Family
+Reviewed,Not Reviewed,10,Michaela,Czech Republic,Double Room,1,Sep-22,Couple
+Reviewed,Not Reviewed,10,Efrat,Israel,Double Room,1,Sep-22,Couple
+Reviewed,Not Reviewed,8,Andreas,Germany,Double Room with Balcony,3,Aug-22,Group
+Reviewed,Not Reviewed,10,Moh,Belgium,Suite with Balcony,1,Aug-22,Family
+Reviewed,Reviewed,10,Bryan,Honduras,Double Room with Balcony,1,Sep-22,Solo traveler
+Reviewed,Not Reviewed,10,Tünde,Hungary,Two-Bedroom Suite,1,Sep-22,Solo traveler
+Reviewed,Reviewed,9,Stefanos,Cyprus,Double Room with Balcony,2,Sep-22,Couple
+Reviewed,Not Reviewed,10,Barbara,Switzerland,Double Room,1,Sep-22,Family
+Reviewed,Reviewed,10,אורית,Israel,Double Room with Balcony,1,Sep-22,Couple
+Reviewed,Not Reviewed,8,אנטופיצקי,Israel,Double Room,1,Sep-22,Solo traveler
+Reviewed,Not Reviewed,10,Meunier,France,Double Room,1,Sep-22,Group
+Reviewed,Not Reviewed,10,Ewa,Poland,Budget Twin Room,1,Sep-22,Solo traveler
+Reviewed,Not Reviewed,10,Vincent,France,Double Room,1,Sep-22,Solo traveler
+Reviewed,Not Reviewed,8,Heinz,Switzerland,Two-Bedroom Suite,1,Sep-22,Family
+Reviewed,Reviewed,8,Hans,Netherlands,Budget Twin Room,1,Sep-22,Couple
+Reviewed,Reviewed,9,Simon,Austria,Double Room,1,Aug-22,Couple
+Reviewed,Not Reviewed,10,Ramona,Italy,Double Room with Balcony,1,Sep-22,Family
+Reviewed,Reviewed,10,Francesco,Italy,Double Room with Balcony,1,Aug-22,Couple
+Reviewed,Not Reviewed,10,Lmannini,Italy,Double Room,6,Aug-22,Solo traveler
+Reviewed,Not Reviewed,9,Paul,Sweden,Double Room with Balcony,1,Aug-22,Couple
+Reviewed,Reviewed,8,Silvia,Italy,Budget Twin Room,1,Aug-22,Group
+Reviewed,Reviewed,10,Marie-pierre,France,Standard Triple Room,3,Aug-22,Couple
+Reviewed,Reviewed,10,Christian,Germany,Double Room with Balcony,1,Aug-22,Couple
+Reviewed,Not Reviewed,10,Yannushka,Ukraine,Standard Triple Room,3,Aug-22,Family
+Reviewed,Not Reviewed,10,Ekaterina,Cyprus,Double Room with Balcony,1,Aug-22,Solo traveler
+Reviewed,Reviewed,10,Mhd,Germany,Standard Triple Room,2,Aug-22,Family
+Reviewed,Not Reviewed,10,Ezra,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Reviewed,Reviewed,10,Naama,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Reviewed,Reviewed,10,André,Cyprus,Double Room with Balcony,3,Aug-22,Couple
+Reviewed,Reviewed,10,שמרית,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Reviewed,Not Reviewed,9,Antria,Cyprus,Double Room with Balcony,1,Aug-22,Family
+Reviewed,Not Reviewed,8,Simone,Italy,Two-Bedroom Suite,2,Aug-22,Group
+Reviewed,Reviewed,9,Keren,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Reviewed,Reviewed,9,טלי,Israel,Two-Bedroom Suite,1,Jul-22,Family
+Reviewed,Reviewed,8,Marios,Cyprus,Budget Twin Room,1,Aug-22,Family
+Reviewed,Reviewed,8,Moalla,France,Standard Triple Room,1,Aug-22,Family
+Reviewed,Reviewed,10,Csengele-monika,Germany,Double Room,1,Aug-22,Couple
+Reviewed,Reviewed,8,Roni,Israel,Standard Triple Room,1,Aug-22,Family
+Reviewed,Reviewed,8,Erica,Italy,Double Room,1,Aug-22,Couple
+Reviewed,Reviewed,8,Yafit,Israel,Double Room,1,Aug-22,Couple
+Reviewed,Reviewed,8,Rudolf,Cyprus,Budget Twin Room,9,Aug-22,Solo traveler
+Reviewed,Not Reviewed,8,Raphael,France,Double Room,1,Aug-22,Couple
+Reviewed,Not Reviewed,10,Natalia,Iceland,Standard Triple Room,1,Aug-22,Family
+Reviewed,Not Reviewed,8,Giuseppe,Switzerland,Double Room,1,Aug-22,Couple
+Reviewed,Not Reviewed,10,Nicol,Israel,Suite with Balcony,1,Aug-22,Group
+Reviewed,Reviewed,9,Hartmut,Germany,Double Room with Balcony,1,Aug-22,Couple
+Reviewed,Reviewed,10,Racheli,Israel,Standard Triple Room,1,Aug-22,Family
+Reviewed,Not Reviewed,10,Virmont,France,Double Room,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,10,Dror,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Reviewed,Not Reviewed,9,Roey,Israel,Budget Twin Room,1,Jul-22,Couple
+Reviewed,Reviewed,9,Dimitris,Greece,Double Room with Balcony,2,Jul-22,Solo traveler
+Reviewed,Reviewed,9,Patricia,France,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Not Reviewed,10,Zachi,Israel,Double Room,2,Jul-22,Family
+Reviewed,Not Reviewed,10,Oshri,Israel,Double Room,1,Jul-22,Family
+Reviewed,Reviewed,9,Andréslidón,Spain,Two-Bedroom Suite,3,Jul-22,Family
+Reviewed,Reviewed,10,Clémence,France,Double Room,1,Jul-22,Couple
+Reviewed,Reviewed,9,Dieuwertje,Netherlands,Suite with Balcony,1,Jul-22,Family
+Reviewed,Not Reviewed,10,Ragusa,Israel,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Not Reviewed,9,Levi,Israel,Family Suite with Balcony,1,Jul-22,Group
+Reviewed,Reviewed,10,Thabet,Cyprus,Suite with Balcony,1,Jul-22,Group
+Reviewed,Not Reviewed,10,Zine-eddine,France,Family Suite with Balcony,4,Jul-22,Family
+Reviewed,Reviewed,8,Filomena63,Italy,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Not Reviewed,10,אבי,Israel,Family Suite with Balcony,1,Jul-22,Family
+Reviewed,Not Reviewed,10,Tony,France,Two-Bedroom Suite,1,Jul-22,Family
+Reviewed,Not Reviewed,9,Mikail,Germany,Double Room with Balcony,1,Jul-22,Solo traveler
+Reviewed,Not Reviewed,10,Richard,Hungary,Double Room with Balcony,2,Jul-22,Couple
+Reviewed,Not Reviewed,10,Teresa,Germany,Double Room,7,Apr-22,Solo traveler
+Reviewed,Reviewed,8,Justine,France,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Not Reviewed,10,Lana,Ukraine,Standard Triple Room,1,Jul-22,Family
+Reviewed,Reviewed,8,Mirosław,Poland,Double Room with Balcony,4,Jun-22,Couple
+Reviewed,Not Reviewed,8,Ελενη,Cyprus,Family Suite with Balcony,1,Jul-22,Group
+Reviewed,Reviewed,8,Mariana,Romania,Double Room with Balcony,7,Jul-22,Couple
+Reviewed,Reviewed,9,Larisa,Montenegro,Standard Triple Room,1,Jul-22,Family
+Reviewed,Not Reviewed,10,Elizabeth,Norway,Family Suite with Balcony,2,Jul-22,Family
+Reviewed,Reviewed,8,Véronique,Canada,Double Room with Balcony,1,Jun-22,Group
+Reviewed,Reviewed,8,Alessandra,Italy,Budget Twin Room,2,Jun-22,Group
+Reviewed,Not Reviewed,9,Shlomit,Israel,Two-Bedroom Suite,1,Jun-22,Family
+Reviewed,Reviewed,8,Larisa,Montenegro,Standard Triple Room,1,Jun-22,Family
+Reviewed,Not Reviewed,10,Gergana,Cyprus,Double Room,1,Jun-22,Couple
+Reviewed,Not Reviewed,10,Aviya,Israel,Family Suite with Balcony,1,Jun-22,Group
+Reviewed,Not Reviewed,9,Gundekar,Germany,Double Room with Balcony,1,Jun-22,Couple
+Reviewed,Reviewed,8,David,Belgium,Double Room,1,Jun-22,Couple
+Reviewed,Not Reviewed,10,Roberto,Spain,Double Room with Balcony,1,Jun-22,Couple
+Reviewed,Not Reviewed,8,Maria,Brazil,Double Room with Balcony,1,Jun-22,Couple
+Reviewed,Not Reviewed,8,Kirsten,Germany,Double Room with Balcony,2,Jun-22,Couple
+Reviewed,Reviewed,8,Andreas_aut,Austria,Double Room with Balcony,1,Jun-22,Couple
+Reviewed,Reviewed,8,Pedro,France,Budget Twin Room,1,Jun-22,Family
+Reviewed,Reviewed,8,Israel,Spain,Double Room with Balcony,1,Jun-22,Solo traveler
+Reviewed,Reviewed,8,Myriam,France,Suite with Balcony,1,Jun-22,Family
+Reviewed,Reviewed,10,Montagné,France,Budget Twin Room,1,Jun-22,Couple
+Reviewed,Reviewed,9,Charles,France,Double Room,1,Jun-22,Couple
+Reviewed,Reviewed,8,Galina,Latvia,Double Room,1,Jun-22,Solo traveler
+Reviewed,Reviewed,8,Anais,France,Double Room with Balcony,1,May-22,Couple
+Reviewed,Reviewed,9,Myriam,France,Family Suite with Balcony,1,May-22,Family
+Reviewed,Not Reviewed,9,Mendez,France,Double Room,1,May-22,Solo traveler
+Reviewed,Reviewed,8,Matthias,Germany,Double Room with Balcony,1,May-22,Couple
+Reviewed,Reviewed,9,Przemyslaw,Poland,Double Room with Balcony,1,May-22,Couple
+Reviewed,Not Reviewed,9,Goldberg,Israel,Double Room,1,May-22,Couple
+Reviewed,Reviewed,8,Nataliia,Ukraine,Double Room,1,May-22,Couple
+Reviewed,Not Reviewed,10,דנה,Israel,Double Room with Balcony,3,May-22,Couple
+Reviewed,Reviewed,8,Kimberly,Germany,Double Room,1,May-22,Couple
+Reviewed,Reviewed,8,J,Czech Republic,Double Room,1,May-22,Couple
+Reviewed,Reviewed,10,Mathilde,Germany,Double Room,1,May-22,Solo traveler
+Reviewed,Not Reviewed,10,Raphaele,France,Two-Bedroom Suite,1,Apr-22,Family
+Reviewed,Not Reviewed,8,Michael,Switzerland,Double Room,1,May-22,Solo traveler
+Reviewed,Reviewed,10,Oriya,Israel,Double Room with Balcony,3,Apr-22,Family
+Reviewed,Not Reviewed,9,Sophia,Cyprus,Standard Triple Room,2,May-22,Couple
+Reviewed,Not Reviewed,10,Aurel,Austria,Double Room with Balcony,3,May-22,Solo traveler
+Reviewed,Reviewed,8,Mathilde,Germany,Double Room,3,May-22,Solo traveler
+Reviewed,Reviewed,10,Kamila,Colombia,Standard Triple Room,1,May-22,Couple
+Reviewed,Not Reviewed,10,Raphaele,France,Two-Bedroom Suite,1,May-22,Family
+Reviewed,Not Reviewed,9,Anja,Germany,Double Room with Balcony,1,Apr-22,Solo traveler
+Reviewed,Not Reviewed,10,Luminita,Spain,Double Room with Balcony,3,Apr-22,Family
+Reviewed,Not Reviewed,10,Marta,Poland,Double Room with Balcony,2,Apr-22,Solo traveler
+Reviewed,Not Reviewed,10,Navit,Israel,Two-Bedroom Suite,1,Apr-22,Family
+Reviewed,Not Reviewed,10,Andreas,Germany,Standard Triple Room,1,Apr-22,Family
+Reviewed,Reviewed,10,Constantinos,Cyprus,Double Room with Balcony,1,Apr-22,Group
+Reviewed,Not Reviewed,10,Asher,Israel,Standard Triple Room,1,Apr-22,Family
+Reviewed,Reviewed,9,Wendy,Germany,Double Room,1,Apr-22,Couple
+Reviewed,Reviewed,10,Søren,Denmark,Double Room with Balcony,1,Apr-22,Couple
+Reviewed,Not Reviewed,10,Csermák,Hungary,Double Room with Balcony,2,Apr-22,Couple
+Reviewed,Reviewed,8,Marianna,Cyprus,Double Room with Balcony,1,Apr-22,Group
+Reviewed,Reviewed,9,Elena,France,Double Room,1,Mar-22,Solo traveler
+Reviewed,Not Reviewed,9,Pilates,Croatia,Double Room,1,Jan-22,Couple
+Reviewed,Not Reviewed,10,Elena,Ukraine,Double Room,1,Jan-22,Group
+Reviewed,Not Reviewed,10,Irina,Russia,Double Room,1,Dec-21,Couple
+Reviewed,Reviewed,9,Marcowilliam,Italy,Double Room with Balcony,1,Nov-21,Group
+Reviewed,Reviewed,9,Artem,Ukraine,Double Room,1,Nov-21,Couple
+Reviewed,Not Reviewed,10,Michael,Ukraine,Family Suite with Balcony,1,Jan-22,Family
+Reviewed,Not Reviewed,10,Maria,Russia,Double Room,1,Nov-21,Solo traveler
+Reviewed,Reviewed,10,Дарья,Russia,Double Room,1,Oct-21,Couple
+Reviewed,Reviewed,8,Elena,Ukraine,Standard Triple Room,1,Dec-21,Family
+Reviewed,Reviewed,9,Alena,Russia,Double Room with Balcony,7,Sep-21,Couple
+Reviewed,Reviewed,9,Mme,France,Double Room,1,Nov-21,Solo traveler
+Reviewed,Not Reviewed,10,Lucile,Norway,Double Room,1,Dec-21,Couple
+Reviewed,Not Reviewed,9,Alexandros,Greece,Double Room,1,Nov-21,Couple
+Reviewed,Not Reviewed,10,Sarah,Germany,Double Room with Balcony,3,Nov-21,Family
+Reviewed,Reviewed,8,Natalia,Russia,Double Room with Balcony,4,Nov-21,Solo traveler
+Reviewed,Not Reviewed,10,Marta,Norway,Double Room,1,Nov-21,Couple
+Reviewed,Reviewed,8,Wulfman,Germany,Double Room,1,Nov-21,Couple
+Reviewed,Reviewed,9,David,Czech Republic,Standard Triple Room,1,Oct-21,Group
+Reviewed,Reviewed,8,Maksymilian,Poland,Standard Triple Room,2,Oct-21,Family
+Reviewed,Not Reviewed,10,Ulrike,Austria,Double Room with Balcony,1,Nov-21,Family
+Reviewed,Reviewed,8,J,Netherlands,Double Room with Balcony,1,Nov-21,Couple
+Reviewed,Reviewed,9,Johannes,Germany,Double Room with Balcony,1,Oct-21,Solo traveler
+Reviewed,Reviewed,10,Yuliia,Ukraine,Double Room,1,Oct-21,Family
+Reviewed,Not Reviewed,8,Inbar,Israel,Two-Bedroom Suite,1,Sep-21,Family
+Reviewed,Reviewed,10,Olha,Ukraine,Double Room,1,Oct-21,Couple
+Reviewed,Reviewed,10,Mary-phil,France,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Reviewed,10,Christian,Germany,Double Room with Balcony,1,Oct-21,Solo traveler
+Reviewed,Not Reviewed,8,Alexander,Germany,Family Suite with Balcony,2,Oct-21,Group
+Reviewed,Not Reviewed,10,Michał,Poland,Double Room with Balcony,3,Oct-21,Couple
+Reviewed,Not Reviewed,10,Anna,Russia,Double Room with Balcony,2,Oct-21,Family
+Reviewed,Reviewed,9,..NB..,Germany,Double Room,1,Oct-21,Solo traveler
+Reviewed,Reviewed,10,Deniskri,Russia,Double Room with Balcony,3,Oct-21,Family
+Reviewed,Not Reviewed,8,Katharina,Germany,Double Room with Balcony,1,Oct-21,Solo traveler
+Reviewed,Reviewed,9,Miguel,Spain,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Reviewed,8,Manon,France,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Not Reviewed,8,Семён,Russia,Double Room with Balcony,1,Oct-21,Family
+Reviewed,Reviewed,8,Tatiana,Russia,Double Room with Balcony,4,Oct-21,Solo traveler
+Reviewed,Not Reviewed,9,Christina,Germany,Standard Triple Room,1,Oct-21,Family
+Reviewed,Not Reviewed,8,Fabian,Germany,Standard Triple Room,1,Sep-21,Group
+Reviewed,Reviewed,9,Fabienne,France,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Reviewed,10,Ilia,Russia,Double Room with Balcony,4,Sep-21,Couple
+Reviewed,Not Reviewed,10,Claire,France,Double Room with Balcony,1,Sep-21,Couple
+Reviewed,Reviewed,9,Evgeny,Israel,Family Suite with Balcony,7,Sep-21,Couple
+Reviewed,Not Reviewed,10,Sylwia,Poland,Double Room with Balcony,7,Sep-21,Couple
+Reviewed,Not Reviewed,10,Δημητρα,Greece,Double Room with Balcony,1,Sep-21,Couple
+Reviewed,Reviewed,8,Kirill,Russia,Double Room,1,Sep-21,Couple
+Reviewed,Not Reviewed,10,Yuliia,Ukraine,Standard Triple Room,2,Sep-21,Group
+Reviewed,Reviewed,10,Anna,Israel,Family Suite with Balcony,1,Aug-21,Family
+Reviewed,Reviewed,9,Lucille,France,Double Room with Balcony,1,Sep-21,Solo traveler
+Reviewed,Reviewed,7.9,Андрей,Russia,Standard Triple Room,1,Aug-21,Couple
+Reviewed,Not Reviewed,9,Quentin,France,Double Room,1,Sep-21,Couple
+Reviewed,Not Reviewed,10,Capelle,France,Double Room,1,Sep-21,Couple
+Reviewed,Reviewed,10,Polina,Russia,Double Room with Balcony,9,Jul-21,Couple
+Reviewed,Reviewed,8,Catherine,France,Double Room with Balcony,1,Aug-21,Solo traveler
+Reviewed,Not Reviewed,10,Olena,Ukraine,Standard Triple Room,4,Aug-21,Group
+Reviewed,Reviewed,8,Alessandro,Italy,Double Room with Balcony,1,Aug-21,Group
+Reviewed,Not Reviewed,10,Marina,Russia,Double Room with Balcony,1,Aug-21,Family
+Reviewed,Reviewed,8,Magdalena,Poland,Standard Triple Room,3,Aug-21,Family
+Reviewed,Reviewed,10,Zohra,France,Double Room with Balcony,7,Aug-21,Family
+Reviewed,Reviewed,10,Zohra,France,Family Suite with Balcony,14,Aug-21,Family
+Reviewed,Not Reviewed,9,Evgeniy,Russia,Double Room with Balcony,2,Aug-21,Solo traveler
+Reviewed,Not Reviewed,10,Marek,Poland,Double Room with Balcony,1,Aug-21,Solo traveler
+Reviewed,Not Reviewed,8,Aleksandr,Cyprus,Standard Triple Room,1,Aug-21,Family
+Reviewed,Reviewed,10,Mikhail,Russia,Family Suite with Balcony,1,Aug-21,Family
+Reviewed,Not Reviewed,10,Claudio,Cyprus,Double Room with Balcony,2,Aug-21,Solo traveler
+Reviewed,Not Reviewed,9,Elena,Russia,Double Room with Balcony,1,Jul-21,Couple
+Reviewed,Not Reviewed,10,Manuela,Spain,Two-Bedroom Suite,1,Jul-21,Family
+Reviewed,Reviewed,8,Carolien,Netherlands,Two-Bedroom Suite,1,Jul-21,Family
+Reviewed,Not Reviewed,9,Elizaveta,Cyprus,Double Room with Balcony,1,Jul-21,Solo traveler
+Not Reviewed,Reviewed,9,Shai,Israel,Double Room with Balcony,1,Jul-21,Couple
+Reviewed,Not Reviewed,9,Jan,Cyprus,Standard Triple Room,1,Jul-21,Group
+Reviewed,Not Reviewed,9.6,Alain,France,Standard Triple Room,1,Jul-21,Family
+Reviewed,Reviewed,8,Алексей,Ukraine,Double Room with Balcony,1,Jun-21,Group
+Reviewed,Not Reviewed,8,Miguel,Spain,Double Room with Balcony,1,Jul-21,Solo traveler
+Reviewed,Reviewed,10,Yuriigr,Russia,Double Room with Balcony,1,Jul-21,Solo traveler
+Reviewed,Reviewed,9,Erwin,Netherlands,Double Room with Balcony,1,Jul-21,Couple
+Reviewed,Not Reviewed,8,Thomas,Switzerland,Family Suite with Balcony,7,Jul-21,Family
+Reviewed,Reviewed,10,Justynek,Poland,Double Room with Balcony,9,Jul-21,Family
+Reviewed,Reviewed,9,Sergey,Russia,Double Room with Balcony,3,Jul-21,Couple
+Reviewed,Reviewed,10,Mahmut,Turkey,Standard Triple Room,1,Jul-21,Solo traveler
+Reviewed,Not Reviewed,10,Jan,Germany,Double Room with Balcony,7,Jul-21,Couple
+Reviewed,Reviewed,9,Emil,Hungary,Standard Triple Room,4,Jul-21,Family
+Reviewed,Reviewed,10,Fedor,Russia,Double Room with Balcony,1,Jul-21,Group
+Reviewed,Reviewed,10,Александр,Russia,Two-Bedroom Suite,1,Jul-21,Family
+Reviewed,Not Reviewed,10,Kirill,Ukraine,Double Room with Balcony,4,Jun-21,Couple
+Reviewed,Reviewed,10,Raphael,France,Double Room with Balcony,1,Jun-21,Solo traveler
+Reviewed,Reviewed,8,Anna,Ukraine,Double Room with Balcony,1,Jun-21,Couple
+Reviewed,Not Reviewed,10,Elenasugurova,Ukraine,Double Room with Balcony,1,Jun-21,Solo traveler
+Reviewed,Reviewed,10,Zoia,Ukraine,Double Room with Balcony,1,Jun-21,Family
+Reviewed,Reviewed,8,Алексей,Ukraine,Family Suite with Balcony,1,Jun-21,Group
+Reviewed,Not Reviewed,10,Yuliya,Ukraine,Double Room with Balcony,1,Jun-21,Family
+Reviewed,Reviewed,10,Costea,Cyprus,Double Room with Balcony,2,Jun-21,Family
+Reviewed,Not Reviewed,9,Paul,Germany,Double Room with Balcony,2,Jun-21,Solo traveler
+Reviewed,Reviewed,10,Gerard,Belgium,Double Room with Balcony,1,Jun-21,Solo traveler
+Reviewed,Not Reviewed,9,Talia,Israel,Double Room with Balcony,1,Jun-21,Solo traveler
+Reviewed,Not Reviewed,10,Charbel,Switzerland,Double Room with Balcony,1,May-21,Solo traveler
+Not Reviewed,Reviewed,6,Oleh,Ukraine,Double Room with Balcony,2,Nov-22,Solo traveler
+Reviewed,Reviewed,3,Michal,Israel,Two-Bedroom Suite,1,Oct-22,Family
+Reviewed,Reviewed,6,Yuval,Israel,Double Room with Balcony,1,Oct-22,Family
+Reviewed,Reviewed,7,Marie-louise,Denmark,Double Room,1,Oct-22,Couple
+Reviewed,Reviewed,6,Kazimierz,Poland,Double Room with Balcony,1,Sep-22,Family
+Reviewed,Reviewed,7,Véronique,France,Budget Twin Room,1,Aug-22,Family
+Reviewed,Reviewed,7,Δήμητρα,Greece,Double Room with Balcony,1,Sep-22,Family
+Reviewed,Reviewed,7,Yafit,Israel,Double Room,1,Aug-22,Couple
+Reviewed,Reviewed,7,Birgit,Austria,Double Room,1,Sep-22,Solo traveler
+Reviewed,Reviewed,7,Yael,India,Double Room with Balcony,1,Aug-22,Couple
+Reviewed,Reviewed,6,אבי,Israel,Double Room,1,Jul-22,Family
+Not Reviewed,Reviewed,5,Christina,Cyprus,Family Suite with Balcony,1,Jun-22,Family
+Reviewed,Reviewed,7,Andre,Germany,Double Room with Balcony,1,Jul-22,Couple
+Reviewed,Not Reviewed,7,Shaul,Italy,Double Room,1,Jun-22,Couple
+Reviewed,Reviewed,7,Dimitrios,Greece,Double Room with Balcony,1,Jun-22,Couple
+Reviewed,Not Reviewed,7,F,Germany,Double Room with Balcony,1,Jun-22,Couple
+Reviewed,Reviewed,7,Robert,Germany,Double Room with Balcony,3,May-22,Solo traveler
+Reviewed,Reviewed,7,Milena,Italy,Double Room,1,Apr-22,Couple
+Reviewed,Reviewed,6,Ortwin,Austria,Double Room,3,Apr-22,Solo traveler
+Reviewed,Reviewed,7,Marcato,Italy,Family Suite with Balcony,1,Mar-22,Group
+Reviewed,Reviewed,7,Arash,Sweden,Double Room with Balcony,4,Nov-21,Couple
+Reviewed,Reviewed,7,Elisabet,Sweden,Two-Bedroom Suite,1,Oct-21,Family
+Reviewed,Reviewed,6,Erkki,Finland,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Reviewed,7,Jean-pierre,France,Double Room with Balcony,2,Oct-21,Couple
+Reviewed,Reviewed,3,Sorena,Romania,Double Room with Balcony,1,Oct-21,Couple
+Reviewed,Reviewed,7,Liliana,Argentina,Double Room with Balcony,2,Oct-21,Couple
+Reviewed,Reviewed,3,Alexey,Russia,Double Room with Balcony,1,Sep-21,Solo traveler
+Reviewed,Reviewed,7,Eugeny76,Lithuania,Family Suite with Balcony,3,Sep-21,Family
+Reviewed,Reviewed,6,R1987,Poland,Double Room with Balcony,4,Sep-21,Group
+Reviewed,Reviewed,6,Aleksandr,Russia,Double Room with Balcony,7,Sep-21,Group
+Reviewed,Reviewed,7,Χαραλαμποσ,Greece,Double Room with Balcony,8,Aug-21,Couple
+Reviewed,Reviewed,6,Tatiana,Russia,Double Room with Balcony,3,Aug-21,Solo traveler
+Reviewed,Reviewed,9,Anonymous,Czech Republic,,1,Aug-22,Family
+Reviewed,Not Reviewed,10,Anonymous,Lebanon,,1,Aug-22,Family
+Reviewed,Reviewed,8,Anonymous,Greece,,4,Jul-22,Family
+Reviewed,Reviewed,10,Anonymous,France,,1,May-22,Couple
+Reviewed,Not Reviewed,9,Anonymous,Germany,,2,Mar-22,Solo traveler
+Reviewed,Not Reviewed,10,Anonymous,Russia,,10,Nov-21,Family
+Reviewed,Reviewed,10,Anonymous,France,,1,Oct-21,Couple
+Reviewed,Reviewed,10,Anonymous,France,,3,Oct-21,Couple
+Reviewed,Reviewed,10,Anonymous,Russia,,1,Oct-21,Family
+Reviewed,Reviewed,8,Anonymous,Finland,,7,Oct-21,Group
+Reviewed,Not Reviewed,10,Anonymous,Israel,,2,Oct-21,Couple
+Reviewed,Not Reviewed,10,Anonymous,Russia,,1,Sep-21,Solo traveler
+Reviewed,Not Reviewed,10,Anonymous,Israel,,1,Jul-21,Couple
+Reviewed,Reviewed,6,Anonymous,Spain,,1,Jun-21,Group
+Not Reviewed,Not Reviewed,9,Salome,Georgia,Budget Twin Room,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Evangelia,Greece,Budget Twin Room,4,Nov-22,Family
+Not Reviewed,Not Reviewed,9,Jonathan,United Kingdom,Double Room with Balcony,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,10,Egamberdiev,Poland,Budget Twin Room,3,Dec-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Stavroula,Cyprus,Double Room with Balcony,1,Dec-22,Couple
+Not Reviewed,Not Reviewed,10,Omiros,Cyprus,Double Room with Balcony,3,Dec-22,Family
+Not Reviewed,Not Reviewed,10,Daniela,United Kingdom,Double Room with Balcony,1,Dec-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Rob,Canada,Double Room,1,Dec-22,Solo traveler
+Not Reviewed,Not Reviewed,9,David,Cyprus,Double Room,1,Dec-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Rosalyn,Cyprus,Double Room with Balcony,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,9,Gary,United Kingdom,Double Room,1,Dec-22,Couple
+Not Reviewed,Not Reviewed,10,Kyriakos,United States of America,Standard Triple Room,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,9,Scott,United States of America,Budget Twin Room,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Cosmina,Romania,Double Room,1,Nov-22,Family
+Not Reviewed,Not Reviewed,10,Fahad,United Kingdom,Double Room with Balcony,4,Nov-22,Couple
+Not Reviewed,Not Reviewed,9,Ioannidou,Cyprus,Double Room with Balcony,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Marios,Cyprus,Double Room with Balcony,1,Nov-22,Family
+Not Reviewed,Not Reviewed,10,Sandeep,Sweden,Double Room with Balcony,4,Nov-22,Family
+Not Reviewed,Not Reviewed,10,Michael,South Korea,Double Room with Balcony,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Daka,Greece,Double Room with Balcony,1,Sep-22,Family
+Not Reviewed,Not Reviewed,8,Philip,Canada,Double Room,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,10,Maria,Lebanon,Double Room with Balcony,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,8,Sally,United Kingdom,Double Room with Balcony,1,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Theodorou,Cyprus,Two-Bedroom Suite,1,Nov-22,Family
+Not Reviewed,Not Reviewed,10,Downes,United Kingdom,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,9,Thomas,United States of America,Double Room,1,Oct-22,Family
+Not Reviewed,Not Reviewed,9,Yolande,United Kingdom,Budget Twin Room,2,Oct-22,Couple
+Not Reviewed,Not Reviewed,8,Vladimir,Israel,Budget Twin Room,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Iain,United Kingdom,Double Room with Balcony,2,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Eleni,Cyprus,Double Room with Balcony,2,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Mustafa,Cyprus,Two-Bedroom Suite,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Elias,Lebanon,Double Room with Balcony,1,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Katerina,Cyprus,Double Room with Balcony,1,Oct-22,Family
+Not Reviewed,Not Reviewed,9,Michelle,United Kingdom,Double Room with Balcony,3,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Loukas,Cyprus,Double Room with Balcony,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,9,Leila,United Kingdom,Family Suite with Balcony,1,Oct-22,Family
+Not Reviewed,Not Reviewed,8,P,Czech Republic,Standard Triple Room,3,Sep-22,Family
+Not Reviewed,Not Reviewed,10,Uros,Serbia,Double Room with Balcony,2,Oct-22,Couple
+Not Reviewed,Not Reviewed,8,Robert,Germany,Budget Twin Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Mohammed,United Kingdom,Budget Twin Room,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Motty,Israel,Double Room with Balcony,2,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Greg,United Kingdom,Double Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Daniel,Czech Republic,Double Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,8,Steve,United Kingdom,Double Room,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Dubravka,Croatia,Double Room with Balcony,10,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Oded,Canada,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,9,Madis,Estonia,Double Room with Balcony,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,9,Angus,United Kingdom,Double Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,8,Ian,United Kingdom,Two-Bedroom Suite,2,Oct-22,Group
+Not Reviewed,Not Reviewed,10,Ahmed,Egypt,Double Room,1,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Costas,Australia,Two-Bedroom Suite,3,Oct-22,Family
+Not Reviewed,Not Reviewed,8,Nikolaus,Germany,Suite with Balcony,1,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Allan,Cyprus,Double Room with Balcony,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Nick,United Kingdom,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,8,Mtancredi,Italy,Double Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,9,Achilleas,Greece,Double Room with Balcony,2,Oct-22,Couple
+Not Reviewed,Not Reviewed,8,Leah,Australia,Two-Bedroom Suite,1,Sep-22,Family
+Not Reviewed,Not Reviewed,9,Vytautas,Iceland,Double Room with Balcony,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Daniel,Lebanon,Budget Twin Room,1,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Sotiroula,Cyprus,Double Room with Balcony,1,Oct-22,Family
+Not Reviewed,Not Reviewed,8,Vadim,Cyprus,Double Room with Balcony,3,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Paraskevou,United States of America,Double Room with Balcony,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Andriani,Cyprus,Double Room with Balcony,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,8,Lisa,United Kingdom,Standard Triple Room,1,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Miren,Spain,Double Room,1,Sep-22,Group
+Not Reviewed,Not Reviewed,10,Eden,Germany,Double Room,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,8,John,United Kingdom,Double Room,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,9,Kanstantsin,United States of America,Double Room,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,8,Nicole,United Kingdom,Budget Twin Room,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Paris,South Africa,Two-Bedroom Suite,1,Sep-22,Family
+Not Reviewed,Not Reviewed,9,Jerry,United Kingdom,Double Room with Balcony,2,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Lilit,Armenia,Double Room with Balcony,2,Sep-22,Group
+Not Reviewed,Not Reviewed,9,Jenny,Australia,Two-Bedroom Suite,1,Sep-22,Group
+Not Reviewed,Not Reviewed,10,Gregor,Slovenia,Double Room with Balcony,3,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Ilai,Israel,Double Room with Balcony,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,8,Francesco,Canada,Double Room,1,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Charalampos,Cyprus,Double Room with Balcony,1,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Ellie,United Kingdom,Budget Twin Room,3,Sep-22,Family
+Not Reviewed,Not Reviewed,8,Eric,United Kingdom,Standard Triple Room,1,Aug-22,Family
+Not Reviewed,Not Reviewed,9,Nikolas,Cyprus,Budget Twin Room,1,Aug-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Inbar,Israel,Double Room,1,Aug-22,Family
+Not Reviewed,Not Reviewed,10,Maria,United Kingdom,Suite with Balcony,1,Aug-22,Family
+Not Reviewed,Not Reviewed,9,Mario,United Kingdom,Family Suite with Balcony,16,Aug-22,Group
+Not Reviewed,Not Reviewed,9,Sami,Lebanon,Double Room with Balcony,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,10,Roberta,United Kingdom,Double Room with Balcony,1,Aug-22,Family
+Not Reviewed,Not Reviewed,8,Bashir,Cyprus,Double Room with Balcony,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,10,Lilla,United Kingdom,Double Room with Balcony,5,Aug-22,Couple
+Not Reviewed,Not Reviewed,10,Nadejda,United States of America,Double Room,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,8,Christina,Greece,Budget Twin Room,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Annita,Cyprus,Double Room with Balcony,3,Aug-22,Family
+Not Reviewed,Not Reviewed,9,Khaldoun,Saudi Arabia,Double Room with Balcony,2,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Daniil,Lithuania,Double Room with Balcony,3,Aug-22,Couple
+Not Reviewed,Not Reviewed,10,Maria,Cyprus,Double Room,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,9,Aggelika,Cyprus,Double Room with Balcony,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,8,Nicoletta,Cyprus,Double Room,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,10,Hakobyan,Greece,Double Room with Balcony,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,8,Vicky,United Kingdom,Double Room,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,9,Moushegh,United States of America,Double Room with Balcony,1,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Tim,United States of America,Budget Twin Room,1,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Soteriou,Cyprus,Standard Triple Room,4,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Leonid,Austria,Double Room with Balcony,5,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Rebecca,United Kingdom,Double Room,1,Jun-22,Group
+Not Reviewed,Not Reviewed,10,Robert,United States of America,Double Room with Balcony,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,8,Carouba,United Arab Emirates,Double Room,2,Jun-22,Group
+Not Reviewed,Not Reviewed,10,Ekaterina,Cyprus,Budget Twin Room,1,Jun-22,Group
+Not Reviewed,Not Reviewed,8,Emilia,Cyprus,Double Room with Balcony,1,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Marios,Cyprus,Double Room with Balcony,1,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Iprite,Cyprus,Double Room with Balcony,2,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Georgy,Cyprus,Double Room,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,10,Jimmy,Lebanon,Double Room,2,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,9,John,United Kingdom,Double Room,1,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Loukas,Cyprus,Double Room with Balcony,1,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Fraser,United Kingdom,Two-Bedroom Suite,1,Jul-22,Group
+Not Reviewed,Not Reviewed,10,Eleni,Cyprus,Double Room with Balcony,1,Jul-22,Group
+Not Reviewed,Not Reviewed,10,Jvzevs,Belarus,Standard Triple Room,2,Jul-22,Family
+Not Reviewed,Not Reviewed,9,Abir,Sweden,Standard Triple Room,1,Jul-22,Family
+Not Reviewed,Not Reviewed,8,Discovery,Lebanon,Standard Triple Room,1,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Lesley,Cyprus,Double Room,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,10,Lauren,United States of America,Double Room with Balcony,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Cristin,Ireland,Double Room with Balcony,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,9,Ramzi,United Kingdom,Double Room,1,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Ruben,Germany,Double Room with Balcony,1,Jul-22,Group
+Not Reviewed,Not Reviewed,9,Nagy,Romania,Double Room with Balcony,7,Jul-22,Couple
+Not Reviewed,Not Reviewed,9,Andrew,Switzerland,Family Suite with Balcony,1,Jul-22,Family
+Not Reviewed,Not Reviewed,8,Rafal,Poland,Double Room,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,8,Moushegh,United States of America,Double Room with Balcony,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Marilena,Cyprus,Double Room with Balcony,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,9,Spvas,Cyprus,Double Room with Balcony,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,9,Alexandros,Cyprus,Double Room with Balcony,1,May-22,Couple
+Not Reviewed,Not Reviewed,8,Rachel,United Kingdom,Budget Twin Room,1,Jun-22,Group
+Not Reviewed,Not Reviewed,9,Elias,Australia,Double Room with Balcony,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,8,Patricia,Malaysia,Double Room with Balcony,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Sebastian,Colombia,Double Room,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,9,Kai,Germany,Double Room with Balcony,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Banu,Turkey,Double Room,1,May-22,Couple
+Not Reviewed,Not Reviewed,9,Fredis,Ireland,Double Room with Balcony,3,May-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Elena,Cyprus,Budget Twin Room,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Ľudmila,Slovakia,Budget Twin Room,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Sean,United Kingdom,Budget Twin Room,1,Jun-22,Group
+Not Reviewed,Not Reviewed,9,Marc,Spain,Double Room with Balcony,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,9,Fleur,United Kingdom,Double Room with Balcony,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Julie,Cyprus,Double Room,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Jamar,France,Double Room,2,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Anna,Ukraine,Standard Triple Room,1,Jun-22,Family
+Not Reviewed,Not Reviewed,8,William,Cyprus,Double Room with Balcony,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Stavroula,Greece,Budget Twin Room,1,Jun-22,Group
+Not Reviewed,Not Reviewed,10,Olena,Germany,Double Room with Balcony,3,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Daniel,United Kingdom,Double Room with Balcony,1,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Angela,France,Double Room with Balcony,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Tevfik,United Kingdom,Two-Bedroom Suite,1,Jun-22,Family
+Not Reviewed,Not Reviewed,10,Eleni,United Kingdom,Double Room,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,9,Ruben,United Kingdom,Budget Twin Room,1,Jun-22,Family
+Not Reviewed,Not Reviewed,10,Kaoutar,France,Double Room with Balcony,3,Jun-22,Group
+Not Reviewed,Not Reviewed,10,Nadejda,United States of America,Double Room with Balcony,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Demetris,Cyprus,Double Room,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Monika,United Kingdom,Budget Twin Room,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Susana,Portugal,Double Room,1,May-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Nedim,Austria,Double Room with Balcony,3,May-22,Couple
+Not Reviewed,Not Reviewed,9,Kanstantsin,United States of America,Double Room with Balcony,1,May-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Yiannis,Cyprus,Double Room with Balcony,1,May-22,Couple
+Not Reviewed,Not Reviewed,8,Dawn,Cyprus,Double Room with Balcony,2,May-22,Couple
+Not Reviewed,Not Reviewed,9,Athina,United Arab Emirates,Double Room with Balcony,1,May-22,Family
+Not Reviewed,Not Reviewed,9,Atanas,North Macedonia,Two-Bedroom Suite,5,May-22,Family
+Not Reviewed,Not Reviewed,10,Andrew,United Kingdom,Double Room,1,May-22,Couple
+Not Reviewed,Not Reviewed,10,Janet,United States of America,Double Room with Balcony,1,May-22,Couple
+Not Reviewed,Not Reviewed,8,Gillian,United Kingdom,Double Room,1,May-22,Couple
+Not Reviewed,Not Reviewed,10,Πολυξένη,Greece,Double Room,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,10,Елена,Ukraine,Double Room with Balcony,5,May-22,Family
+Not Reviewed,Not Reviewed,8,Daniel,Romania,Double Room with Balcony,1,May-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Tomas,Lithuania,Double Room with Balcony,1,May-22,Couple
+Not Reviewed,Not Reviewed,8,Nels,Netherlands,Double Room with Balcony,1,May-22,Couple
+Not Reviewed,Not Reviewed,10,Laura,Ireland,Double Room,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,8,Vadim,United States of America,Double Room,1,May-22,Couple
+Not Reviewed,Not Reviewed,10,Mark,United Kingdom,Double Room with Balcony,1,May-22,Couple
+Not Reviewed,Not Reviewed,10,Kristina,Serbia,Double Room,1,Apr-22,Group
+Not Reviewed,Not Reviewed,10,Yosef,United Kingdom,Double Room with Balcony,1,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Robin,Cyprus,Family Suite with Balcony,1,Apr-22,Family
+Not Reviewed,Not Reviewed,9,Dimitrios,Greece,Double Room with Balcony,1,Mar-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Simon,Denmark,Double Room,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,10,Viktoria,United Kingdom,Standard Triple Room,1,Apr-22,Family
+Not Reviewed,Not Reviewed,10,Brady,Canada,Double Room with Balcony,2,Apr-22,Couple
+Not Reviewed,Not Reviewed,9,Roman,Australia,Double Room with Balcony,1,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,8,John,United Kingdom,Double Room,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,9,Colin,United Kingdom,Family Suite with Balcony,1,Apr-22,Family
+Not Reviewed,Not Reviewed,8,Florent,United States of America,Double Room with Balcony,1,Apr-22,Group
+Not Reviewed,Not Reviewed,10,Maria,Cyprus,Double Room,3,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Halla,Cyprus,Double Room with Balcony,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,10,Esme,United Kingdom,Standard Triple Room,1,Apr-22,Family
+Not Reviewed,Not Reviewed,10,Nancy,Germany,Double Room,1,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Fouad,Lebanon,Double Room,1,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Serena,Lebanon,Double Room,1,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Georges,Lebanon,Double Room,1,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Rodosthenous,Cyprus,Double Room,2,Apr-22,Couple
+Not Reviewed,Not Reviewed,8,Jane,United Kingdom,Double Room with Balcony,1,Mar-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Giora,United States of America,Double Room,1,Mar-22,Family
+Not Reviewed,Not Reviewed,8,Ekaterina,United Kingdom,Double Room,1,Mar-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Theodosis,Cyprus,Double Room with Balcony,1,Mar-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Theodosis,Cyprus,Double Room with Balcony,1,Feb-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Dr,Switzerland,Double Room with Balcony,1,Mar-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Andry,Cyprus,Double Room,1,Mar-22,Couple
+Not Reviewed,Not Reviewed,10,Varvara,Russia,Double Room,1,Mar-22,Couple
+Not Reviewed,Not Reviewed,9,Savvas,Greece,Double Room with Balcony,1,Mar-22,Couple
+Not Reviewed,Not Reviewed,9,Philippos,Cyprus,Double Room,3,Dec-21,Couple
+Not Reviewed,Not Reviewed,9,Timothy,United Kingdom,Family Suite with Balcony,1,Feb-22,Family
+Not Reviewed,Not Reviewed,9,Maria,Russia,Double Room,1,Feb-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Theodosis,Cyprus,Double Room,1,Dec-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Sharon,United Kingdom,Double Room,1,Feb-22,Couple
+Not Reviewed,Not Reviewed,9,Jean,Lebanon,Double Room with Balcony,1,Jan-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Emma,Ireland,Double Room,1,Dec-21,Couple
+Not Reviewed,Not Reviewed,9,Paola,Malta,Family Suite with Balcony,1,Dec-21,Family
+Not Reviewed,Not Reviewed,10,Elie,Ghana,Double Room with Balcony,4,Dec-21,Couple
+Not Reviewed,Not Reviewed,10,Michael,United States of America,Double Room with Balcony,1,Nov-21,Couple
+Not Reviewed,Not Reviewed,10,Karl,Canada,Double Room,1,Dec-21,Group
+Not Reviewed,Not Reviewed,9,Fatu,Romania,Double Room with Balcony,1,Nov-21,Solo traveler
+Not Reviewed,Not Reviewed,9,David,United Kingdom,Double Room with Balcony,1,Sep-21,Solo traveler
+Not Reviewed,Not Reviewed,9,Kevin,United Kingdom,Double Room,1,Nov-21,Couple
+Not Reviewed,Not Reviewed,10,Andreas,Cyprus,Double Room,1,Dec-21,Couple
+Not Reviewed,Not Reviewed,10,Karl,Canada,Double Room,1,Dec-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Mark,United Kingdom,Family Suite with Balcony,1,Oct-21,Family
+Not Reviewed,Not Reviewed,8,Maria,Spain,Double Room,1,Nov-21,Couple
+Not Reviewed,Not Reviewed,8,Noa,Netherlands,Double Room with Balcony,1,Sep-21,Solo traveler
+Not Reviewed,Not Reviewed,9,Alena,Russia,Double Room with Balcony,1,Nov-21,Couple
+Not Reviewed,Not Reviewed,9,Mark,United Kingdom,Double Room with Balcony,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,10,Hisham,Lebanon,Double Room with Balcony,1,Nov-21,Group
+Not Reviewed,Not Reviewed,8,Lea,Denmark,Standard Triple Room,1,Oct-21,Family
+Not Reviewed,Not Reviewed,10,Theodoros,Cyprus,Double Room with Balcony,1,Aug-21,Couple
+Not Reviewed,Not Reviewed,10,Jay,United Kingdom,Double Room,1,Nov-21,Family
+Not Reviewed,Not Reviewed,9,Alisa,United Kingdom,Double Room,1,Nov-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Liliya,Russia,Double Room with Balcony,1,Oct-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Rode,Germany,Double Room,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,9,Howard,United Kingdom,Family Suite with Balcony,1,Oct-21,Group
+Not Reviewed,Not Reviewed,10,Ognjen,Bosnia and Herzegovina,Double Room,3,Oct-21,Couple
+Not Reviewed,Not Reviewed,8,Maggie,United Kingdom,Double Room with Balcony,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,8,Alex,United Kingdom,Two-Bedroom Suite,1,Oct-21,Family
+Not Reviewed,Not Reviewed,8,Iulia,Romania,Double Room with Balcony,1,Sep-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Jacqueline,Cyprus,Double Room with Balcony,1,Sep-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Anonymuus,Czech Republic,Double Room with Balcony,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,8,Travelanon,Australia,Standard Triple Room,1,Jul-21,Group
+Not Reviewed,Not Reviewed,10,Anfisa,Russia,Double Room with Balcony,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,10,Anfisa,Russia,Double Room with Balcony,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,10,Polina,Russia,Double Room,1,Aug-21,Group
+Not Reviewed,Not Reviewed,9,Cosmina,Romania,Double Room,4,Oct-21,Couple
+Not Reviewed,Not Reviewed,9,Ko,Estonia,Double Room with Balcony,1,Oct-21,Family
+Not Reviewed,Not Reviewed,10,Mohammad,Kuwait,Double Room with Balcony,1,Oct-21,Solo traveler
+Not Reviewed,Not Reviewed,9,Diego,Colombia,Double Room with Balcony,1,Oct-21,Family
+Not Reviewed,Not Reviewed,8,Tatiana,Netherlands,Double Room with Balcony,1,Sep-21,Group
+Not Reviewed,Not Reviewed,10,George,United Kingdom,Double Room,1,Sep-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Matt,United Kingdom,Double Room with Balcony,1,Sep-21,Group
+Not Reviewed,Not Reviewed,10,Florin,United Kingdom,Double Room with Balcony,1,Sep-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Katie,United Kingdom,Double Room with Balcony,1,Sep-21,Group
+Not Reviewed,Not Reviewed,10,Giorgos,Cyprus,Double Room with Balcony,4,Sep-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Vladyslav,Germany,Family Suite with Balcony,1,Sep-21,Family
+Not Reviewed,Not Reviewed,10,Peter,United Kingdom,Family Suite with Balcony,1,Jul-21,Family
+Not Reviewed,Not Reviewed,9,Natalia,Ukraine,Double Room with Balcony,7,Aug-21,Solo traveler
+Not Reviewed,Not Reviewed,9,Tony,United Kingdom,Double Room with Balcony,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,9,Artur,Austria,Double Room with Balcony,7,Aug-21,Group
+Not Reviewed,Not Reviewed,10,Xenia,United Kingdom,Double Room with Balcony,4,Aug-21,Couple
+Not Reviewed,Not Reviewed,8,Rachael,Cyprus,Double Room with Balcony,1,Sep-21,Family
+Not Reviewed,Not Reviewed,10,Minas,Egypt,Double Room with Balcony,1,Aug-21,Family
+Not Reviewed,Not Reviewed,8,Ostap_med,Ukraine,Standard Triple Room,1,Aug-21,Group
+Not Reviewed,Not Reviewed,10,Burcu,Turkey,Double Room with Balcony,1,Aug-21,Family
+Not Reviewed,Not Reviewed,8,Jip,Netherlands,Double Room with Balcony,1,Aug-21,Couple
+Not Reviewed,Not Reviewed,10,Khalid,Saudi Arabia,Double Room with Balcony,1,Aug-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Katerina,Cyprus,Double Room with Balcony,2,Aug-21,Group
+Not Reviewed,Not Reviewed,8,St,Cyprus,Double Room,1,Aug-21,Couple
+Not Reviewed,Not Reviewed,9,Raluca,Ireland,Double Room with Balcony,1,Aug-21,Couple
+Not Reviewed,Not Reviewed,10,Maria-rita,Lebanon,Family Suite with Balcony,1,Aug-21,Family
+Not Reviewed,Not Reviewed,10,Barbara,Austria,Family Suite with Balcony,2,Aug-21,Group
+Not Reviewed,Not Reviewed,9,Andrei_campean,Ireland,Double Room with Balcony,1,Aug-21,Couple
+Not Reviewed,Not Reviewed,10,Elen,Ukraine,Two-Bedroom Suite,1,Aug-21,Group
+Not Reviewed,Not Reviewed,8,Mohamed,Bahrain,Double Room with Balcony,4,Aug-21,Couple
+Not Reviewed,Not Reviewed,9,Elias,Saudi Arabia,Family Suite with Balcony,4,Aug-21,Family
+Not Reviewed,Not Reviewed,9,Maria,Czech Republic,Family Suite with Balcony,1,Aug-21,Group
+Not Reviewed,Not Reviewed,9,Attila,Romania,Double Room with Balcony,1,Aug-21,Couple
+Not Reviewed,Not Reviewed,10,Hough,Switzerland,Double Room with Balcony,1,Aug-21,Group
+Not Reviewed,Not Reviewed,10,Richard,United Kingdom,Double Room with Balcony,1,Aug-21,Solo traveler
+Not Reviewed,Not Reviewed,9,Katarina,Serbia,Double Room with Balcony,1,Jul-21,Group
+Not Reviewed,Not Reviewed,10,Nasser,United Arab Emirates,Double Room with Balcony,1,Jul-21,Family
+Not Reviewed,Not Reviewed,10,Elena,Cyprus,Standard Triple Room,1,Jul-21,Group
+Not Reviewed,Not Reviewed,10,Sanad,Jordan,Double Room with Balcony,1,Jul-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Elaine,United Kingdom,Family Suite with Balcony,1,Jul-21,Family
+Not Reviewed,Not Reviewed,9,Oskars,Latvia,Double Room with Balcony,1,Jun-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Georgios,Greece,Double Room with Balcony,1,Jun-21,Couple
+Not Reviewed,Not Reviewed,9,Ioanna,Greece,Family Suite with Balcony,1,Jul-21,Family
+Not Reviewed,Not Reviewed,9,Alison,United Kingdom,Double Room with Balcony,1,Jul-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Krisjanis,Latvia,Double Room with Balcony,1,Jul-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Giannos,Cyprus,Double Room with Balcony,3,Jul-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Vera,United Kingdom,Double Room with Balcony,1,Jul-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Godfrey,Ireland,Double Room with Balcony,1,Jul-21,Family
+Not Reviewed,Not Reviewed,10,Richard,United Kingdom,Double Room with Balcony,1,Jun-21,Couple
+Not Reviewed,Not Reviewed,10,Sanela,Greece,Standard Triple Room,3,Jun-21,Family
+Not Reviewed,Not Reviewed,9,Maksym,Poland,Double Room with Balcony,1,Jun-21,Solo traveler
+Not Reviewed,Not Reviewed,8,William,United Kingdom,Double Room with Balcony,1,Jun-21,Couple
+Not Reviewed,Not Reviewed,8,Ruslan,Russia,Double Room with Balcony,1,Jun-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Ron,Israel,Double Room with Balcony,1,Jun-21,Solo traveler
+Not Reviewed,Not Reviewed,7,Rafailia,Cyprus,Double Room with Balcony,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,7,Ioannis,Cyprus,Double Room with Balcony,1,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,7,Olsen,Norway,Two-Bedroom Suite,1,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,7,Ronald,Lebanon,Budget Twin Room,1,Dec-22,Couple
+Not Reviewed,Not Reviewed,7,Julian,United Kingdom,Two-Bedroom Suite,1,Sep-22,Group
+Not Reviewed,Not Reviewed,1,Monika,United Kingdom,Double Room,1,Dec-22,Couple
+Not Reviewed,Not Reviewed,7,Trezesa,Czech Republic,Budget Twin Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,2,Idris,United Kingdom,Double Room,1,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,7,Epshtein,Israel,Double Room,1,Sep-22,Family
+Not Reviewed,Not Reviewed,7,Edmond,United States of America,Double Room with Balcony,2,Nov-22,Couple
+Not Reviewed,Not Reviewed,6,Mariannhornyak,Hungary,Two-Bedroom Suite,1,Nov-22,Family
+Not Reviewed,Not Reviewed,7,Eleni,Cyprus,Budget Twin Room,1,Oct-22,Group
+Not Reviewed,Not Reviewed,5,Doron,United Kingdom,Double Room with Balcony,3,Nov-22,Couple
+Not Reviewed,Not Reviewed,5,Maiken,Denmark,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,7,Kevin,United Kingdom,Double Room with Balcony,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,7,Paulo,Portugal,Double Room with Balcony,3,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,4,Els,Israel,Suite with Balcony,1,Oct-22,Group
+Not Reviewed,Not Reviewed,7,Jane,United Kingdom,Double Room with Balcony,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,7,Pamela,Czech Republic,Budget Twin Room,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,6,Dawn,Cyprus,Double Room with Balcony,1,Sep-22,Family
+Not Reviewed,Not Reviewed,7,Mark,United Kingdom,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,7,Robert,Australia,Double Room with Balcony,1,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,2,Dr,Saudi Arabia,Double Room with Balcony,1,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,7,Ioanna,Cyprus,Double Room with Balcony,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,7,Jayne,United Kingdom,Two-Bedroom Suite,1,Jul-22,Group
+Not Reviewed,Not Reviewed,7,Anton,Estonia,Family Suite with Balcony,1,Jul-22,Group
+Not Reviewed,Not Reviewed,7,Hyungbin,Nigeria,Double Room,1,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,7,Alexandru-paul,Romania,Double Room with Balcony,1,May-22,Couple
+Not Reviewed,Not Reviewed,4,Bayan,Israel,Double Room with Balcony,1,May-22,Solo traveler
+Not Reviewed,Not Reviewed,7,Andreas192625,Cyprus,Family Suite with Balcony,1,May-22,Couple
+Not Reviewed,Not Reviewed,7,Brian,Cyprus,Double Room,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,6,Kamil,United Kingdom,Double Room with Balcony,1,Feb-22,Solo traveler
+Not Reviewed,Not Reviewed,7,Simona,Malta,Family Suite with Balcony,1,Jan-22,Family
+Not Reviewed,Not Reviewed,7,James,United Kingdom,Double Room with Balcony,1,Nov-21,Family
+Not Reviewed,Not Reviewed,6,Nina,United Kingdom,Double Room with Balcony,1,Sep-21,Solo traveler
+Not Reviewed,Not Reviewed,6,Elena1m,Cyprus,Two-Bedroom Suite,1,Aug-21,Solo traveler
+Not Reviewed,Not Reviewed,7,Ashley,United Kingdom,Double Room with Balcony,1,Aug-21,Family
+Not Reviewed,Not Reviewed,7,Denis,Russia,Two-Bedroom Suite,1,Aug-21,Family
+Not Reviewed,Not Reviewed,5,Pavlo,Ukraine,Double Room with Balcony,1,Jul-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Anonymous,Cyprus,,2,Nov-22,Couple
+Not Reviewed,Not Reviewed,10,Anonymous,United Kingdom,,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,9,Anonymous,United Kingdom,,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Anonymous,South Africa,,1,Aug-22,Family
+Not Reviewed,Not Reviewed,8,Anonymous,Jordan,,4,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Anonymous,Denmark,,1,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Anonymous,Cyprus,,2,Jan-22,Family
+Not Reviewed,Not Reviewed,8,Anonymous,Cyprus,,3,Oct-21,Couple
+Not Reviewed,Not Reviewed,8,Anonymous,United Kingdom,,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,9,Anonymous,Cyprus,,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,10,Anonymous,Cyprus,,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,10,Anonymous,Romania,,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,10,Anonymous,United Kingdom,,1,Aug-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Anonymous,Serbia,,7,Aug-21,Couple
+Not Reviewed,Not Reviewed,9,Anonymous,Ukraine,,4,Jul-21,Couple
+Not Reviewed,Not Reviewed,6,Anonymous,United Kingdom,,7,Jul-22,Couple
+Not Reviewed,Not Reviewed,4,Anonymous,United States of America,,1,Nov-21,Group
+Not Reviewed,Not Reviewed,8,Audrey,France,Two-Bedroom Suite,1,Nov-22,Family
+Not Reviewed,Not Reviewed,9,Juliana,Cyprus,Double Room,1,Dec-22,Couple
+Not Reviewed,Not Reviewed,8,Beate,Germany,Double Room with Balcony,3,Dec-22,Couple
+Not Reviewed,Not Reviewed,10,Ioanns,Greece,Double Room with Balcony,4,Nov-22,Family
+Not Reviewed,Not Reviewed,10,Jurate,Lithuania,Budget Twin Room,1,Dec-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Valentin,Romania,Standard Triple Room,1,Dec-22,Family
+Not Reviewed,Not Reviewed,9,Mladen,Serbia,Double Room with Balcony,3,Dec-22,Family
+Not Reviewed,Not Reviewed,10,Georgios,Greece,Double Room,1,Dec-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Laura,Lithuania,Double Room,1,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Lavrentios,Greece,Double Room,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,10,Asya,Bulgaria,Double Room with Balcony,3,Dec-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Magdalena,Poland,Double Room,4,Dec-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Milos,Serbia,Double Room with Balcony,1,Dec-22,Couple
+Not Reviewed,Not Reviewed,9,Vaiva,Lithuania,Double Room,4,Dec-22,Couple
+Not Reviewed,Not Reviewed,10,Sékou,France,Double Room with Balcony,7,Nov-22,Couple
+Not Reviewed,Not Reviewed,9,Nicos,Cyprus,Double Room with Balcony,3,Dec-22,Family
+Not Reviewed,Not Reviewed,10,Thanpan,Greece,Double Room with Balcony,7,Nov-22,Family
+Not Reviewed,Not Reviewed,8,Antonia,Cyprus,Double Room with Balcony,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,8,Ralf,Germany,Double Room with Balcony,1,Nov-22,Family
+Not Reviewed,Not Reviewed,9,Valeriia,Ukraine,Double Room,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,10,Eliazr,Israel,Double Room,1,Nov-22,Family
+Not Reviewed,Not Reviewed,10,Tatiana,Austria,Standard Triple Room,1,Oct-22,Family
+Not Reviewed,Not Reviewed,8,Lichtiger,France,Double Room,1,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Gabriel,France,Double Room,1,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Veronika,Czech Republic,Double Room,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,10,Ievgen,Ukraine,Standard Triple Room,1,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Dmytro,Ukraine,Double Room with Balcony,4,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Σπυρίδων,Greece,Double Room with Balcony,2,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Richard,Germany,Double Room with Balcony,4,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Daphne,Germany,Double Room with Balcony,1,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Mirabella,Netherlands,Double Room with Balcony,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Christoph,Belgium,Double Room,1,Nov-22,Family
+Not Reviewed,Not Reviewed,9,Peter,Slovakia,Double Room with Balcony,7,Nov-22,Couple
+Not Reviewed,Not Reviewed,10,Aleksandr,Israel,Double Room with Balcony,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,10,Βασιλης,Greece,Double Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Tara,Belgium,Budget Twin Room,1,Sep-22,Group
+Not Reviewed,Not Reviewed,10,Khrystyna,Ukraine,Double Room,1,Nov-22,Family
+Not Reviewed,Not Reviewed,8,Bence,Hungary,Double Room with Balcony,2,Sep-22,Group
+Not Reviewed,Not Reviewed,10,Carlos,Brazil,Double Room with Balcony,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,8,Nicoleta,Romania,Double Room with Balcony,8,Oct-22,Group
+Not Reviewed,Not Reviewed,10,Σκεύη,Cyprus,Double Room with Balcony,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Kateryna,Ukraine,Double Room with Balcony,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,10,Stas,Israel,Standard Triple Room,1,Nov-22,Family
+Not Reviewed,Not Reviewed,10,Ganna,Ukraine,Double Room,1,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Yubo,China,Double Room with Balcony,1,Oct-22,Family
+Not Reviewed,Not Reviewed,8,Nicolas,France,Double Room,1,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Omar,Spain,Double Room,1,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Nicolai,Germany,Budget Twin Room,2,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Yaniv,Israel,Suite with Balcony,1,Oct-22,Group
+Not Reviewed,Not Reviewed,8,David,France,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,9,בנימין,Israel,Double Room with Balcony,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Netanel,Israel,Double Room,1,Oct-22,Family
+Not Reviewed,Not Reviewed,9,Elissa,Germany,Double Room with Balcony,2,Oct-22,Couple
+Not Reviewed,Not Reviewed,9,Ludivine,France,Double Room with Balcony,1,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Robert,Switzerland,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,10,אולגה,Israel,Two-Bedroom Suite,1,Oct-22,Group
+Not Reviewed,Not Reviewed,8,Anton,Israel,Double Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Joyce,Belgium,Double Room with Balcony,1,Oct-22,Group
+Not Reviewed,Not Reviewed,9,Ioannis,Greece,Double Room,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Mika,Israel,Standard Triple Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,9,Yishai,Israel,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Pedro,Spain,Double Room with Balcony,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,8,Gulyás,Hungary,Standard Triple Room,4,Oct-22,Couple
+Not Reviewed,Not Reviewed,8,Shay,Israel,Suite with Balcony,1,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Miteva,Bulgaria,Double Room with Balcony,2,Sep-22,Family
+Not Reviewed,Not Reviewed,10,Igor,Croatia,Double Room,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Gunhild,Norway,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,9,Beata,Poland,Double Room,1,Oct-22,Family
+Not Reviewed,Not Reviewed,8,Dina,Israel,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Vladimir,Czech Republic,Budget Twin Room,1,Oct-22,Family
+Not Reviewed,Not Reviewed,9,Adam,Poland,Budget Twin Room,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Kal,Israel,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Eliahu,Israel,Standard Triple Room,1,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Yevhen,Ukraine,Two-Bedroom Suite,1,Oct-22,Family
+Not Reviewed,Not Reviewed,8,Roberta,Italy,Double Room with Balcony,2,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Jc2214,France,Double Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Shlomi,Israel,Double Room with Balcony,1,Oct-22,Group
+Not Reviewed,Not Reviewed,9,Clément,France,Suite with Balcony,2,Oct-22,Group
+Not Reviewed,Not Reviewed,10,Kjell,Sweden,Double Room with Balcony,1,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Noam,Israel,Double Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,9,Nitza,Israel,Standard Triple Room,3,Oct-22,Group
+Not Reviewed,Not Reviewed,9,Boje,Denmark,Double Room with Balcony,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,9,Magdalena,Austria,Double Room with Balcony,1,Oct-22,Family
+Not Reviewed,Not Reviewed,9,Lukáš,Czech Republic,Double Room,1,Oct-22,Family
+Not Reviewed,Not Reviewed,9,עוזי,Israel,Budget Twin Room,1,Oct-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Nel,Italy,Double Room with Balcony,2,Oct-22,Family
+Not Reviewed,Not Reviewed,10,Catalin-mihai,United States of America,Double Room with Balcony,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Ioanna,Cyprus,Double Room,1,Oct-22,Family
+Not Reviewed,Not Reviewed,9,Tom,Germany,Double Room with Balcony,7,Oct-22,Couple
+Not Reviewed,Not Reviewed,10,Zuzana,Czech Republic,Double Room with Balcony,2,Sep-22,Group
+Not Reviewed,Not Reviewed,8,Jacob,Israel,Budget Twin Room,1,Sep-22,Family
+Not Reviewed,Not Reviewed,9,Tamara,Austria,Double Room with Balcony,1,Sep-22,Family
+Not Reviewed,Not Reviewed,8,Pedro,Portugal,Two-Bedroom Suite,1,Sep-22,Family
+Not Reviewed,Not Reviewed,9,Konstantinos,Greece,Two-Bedroom Suite,1,Sep-22,Group
+Not Reviewed,Not Reviewed,10,Antonis,Greece,Double Room with Balcony,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Αναστασια,Greece,Double Room,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,8,Verena,Germany,Double Room with Balcony,1,Sep-22,Group
+Not Reviewed,Not Reviewed,10,בורשטיין,Israel,Two-Bedroom Suite,1,Sep-22,Group
+Not Reviewed,Not Reviewed,10,מילמן,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Not Reviewed,Not Reviewed,10,Alina,Bulgaria,Two-Bedroom Suite,2,Sep-22,Group
+Not Reviewed,Not Reviewed,10,Netanel,Israel,Two-Bedroom Suite,1,Sep-22,Family
+Not Reviewed,Not Reviewed,10,Jenny,France,Budget Twin Room,1,Sep-22,Family
+Not Reviewed,Not Reviewed,10,Amir15000,France,Double Room with Balcony,1,Sep-22,Family
+Not Reviewed,Not Reviewed,9,Attilio,Italy,Double Room with Balcony,1,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Claudia,Austria,Budget Twin Room,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Soledad,France,Suite with Balcony,1,Aug-22,Family
+Not Reviewed,Not Reviewed,9,Alessandro,Italy,Double Room,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,9,Samuel,Switzerland,Double Room with Balcony,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Inbar,Israel,Double Room with Balcony,7,Sep-22,Family
+Not Reviewed,Not Reviewed,10,Ioannis,Greece,Double Room with Balcony,1,Sep-22,Family
+Not Reviewed,Not Reviewed,8,Simon,Austria,Standard Triple Room,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,8,George,Cyprus,Double Room with Balcony,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,9,Tom,Netherlands,Double Room with Balcony,1,Sep-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Jad,Germany,Double Room with Balcony,1,Aug-22,Family
+Not Reviewed,Not Reviewed,9,Elenaa99,Cyprus,Double Room with Balcony,1,Aug-22,Family
+Not Reviewed,Not Reviewed,8,Marjolein,Netherlands,Double Room with Balcony,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,9,Daria,Russia,Double Room with Balcony,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,10,Sara,Italy,Double Room with Balcony,1,Aug-22,Group
+Not Reviewed,Not Reviewed,9,Sebastian,Poland,Two-Bedroom Suite,3,Aug-22,Family
+Not Reviewed,Not Reviewed,9,Hila,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Not Reviewed,Not Reviewed,9,Fredrik,Sweden,Double Room with Balcony,1,Aug-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Rimantė,Lithuania,Double Room,1,Aug-22,Family
+Not Reviewed,Not Reviewed,10,Sullyvan,China,Double Room,1,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Pelik,Poland,Two-Bedroom Suite,1,Aug-22,Group
+Not Reviewed,Not Reviewed,10,Луиза,Russia,Double Room with Balcony,1,Aug-22,Family
+Not Reviewed,Not Reviewed,10,Moti,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Not Reviewed,Not Reviewed,10,Kamila,Poland,Two-Bedroom Suite,1,Aug-22,Family
+Not Reviewed,Not Reviewed,10,Bar,Israel,Double Room with Balcony,1,Aug-22,Family
+Not Reviewed,Not Reviewed,8,Nir,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Not Reviewed,Not Reviewed,8,Oz,Israel,Two-Bedroom Suite,1,Aug-22,Family
+Not Reviewed,Not Reviewed,10,Gabriel-alexandru,Romania,Double Room with Balcony,1,Aug-22,Family
+Not Reviewed,Not Reviewed,10,Aleksei,Finland,Family Suite with Balcony,1,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Claudia,Italy,Double Room,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,10,Guillaume,Belgium,Two-Bedroom Suite,1,Aug-22,Family
+Not Reviewed,Not Reviewed,8,Mathias,Switzerland,Double Room,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,8,Romy,Germany,Double Room,1,Aug-22,Group
+Not Reviewed,Not Reviewed,8,Luisa,Italy,Double Room with Balcony,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,8,Christodoulos,Greece,Double Room,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,10,László,Hungary,Standard Triple Room,1,Aug-22,Family
+Not Reviewed,Not Reviewed,8,Baumbach,Switzerland,Suite with Balcony,1,Jul-22,Group
+Not Reviewed,Not Reviewed,10,Angeliki,Cyprus,Suite with Balcony,2,Aug-22,Family
+Not Reviewed,Not Reviewed,10,Pavel,Russia,Two-Bedroom Suite,1,Jul-22,Family
+Not Reviewed,Not Reviewed,8,Eleni,Cyprus,Double Room with Balcony,1,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Daniele,United Kingdom,Budget Twin Room,1,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Roman,Cyprus,Double Room with Balcony,1,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Violet,Israel,Two-Bedroom Suite,1,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Tasoudi,Cyprus,Budget Twin Room,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,10,Alexandre,Israel,Double Room,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Gueorgui,Germany,Double Room,1,Jul-22,Family
+Not Reviewed,Not Reviewed,10,Jitka,Czech Republic,Standard Triple Room,1,Jul-22,Family
+Not Reviewed,Not Reviewed,8,שמוליק,Israel,Standard Triple Room,1,Jul-22,Family
+Not Reviewed,Not Reviewed,8,Hanna,Ukraine,Double Room,2,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Lambros,Cyprus,Budget Twin Room,2,Jul-22,Couple
+Not Reviewed,Not Reviewed,9,Svitlana,Ukraine,Double Room,1,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Michael,Germany,Double Room with Balcony,1,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Anastasiia,Russia,Double Room with Balcony,2,Jul-22,Couple
+Not Reviewed,Not Reviewed,10,Татьяна,Cyprus,Family Suite with Balcony,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,8,David,Czech Republic,Standard Triple Room,1,Jun-22,Family
+Not Reviewed,Not Reviewed,10,Armin,Germany,Double Room with Balcony,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Soultana,Greece,Suite with Balcony,3,Jun-22,Family
+Not Reviewed,Not Reviewed,10,Andreas,Cyprus,Two-Bedroom Suite,1,Jun-22,Family
+Not Reviewed,Not Reviewed,10,Agata,Poland,Double Room with Balcony,1,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Gertraud,Austria,Double Room,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Maria,Cyprus,Double Room with Balcony,1,May-22,Couple
+Not Reviewed,Not Reviewed,9,Aspasia,Greece,Double Room,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,8,Christina,Austria,Family Suite with Balcony,1,Jun-22,Group
+Not Reviewed,Not Reviewed,10,Επαμεινωνδας,Greece,Double Room with Balcony,3,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Xristos,Greece,Double Room with Balcony,2,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Armin,Germany,Double Room with Balcony,5,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Didier,France,Budget Twin Room,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Maria,Cyprus,Two-Bedroom Suite,1,Jun-22,Group
+Not Reviewed,Not Reviewed,9,Turc,Romania,Standard Triple Room,1,Jun-22,Family
+Not Reviewed,Not Reviewed,10,Carlos,Switzerland,Double Room with Balcony,15,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Martin,Austria,Family Suite with Balcony,1,Jun-22,Family
+Not Reviewed,Not Reviewed,8,Mirco,Italy,Double Room with Balcony,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Claude,France,Double Room with Balcony,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,10,Elke,Austria,Double Room,1,May-22,Family
+Not Reviewed,Not Reviewed,8,Stefanos,Germany,Double Room with Balcony,2,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Julian,Germany,Double Room with Balcony,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Christophe,France,Double Room,1,Jun-22,Group
+Not Reviewed,Not Reviewed,9,Sophie,France,Budget Twin Room,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Catarina,Portugal,Standard Triple Room,1,Jun-22,Group
+Not Reviewed,Not Reviewed,10,Konstantina,Cyprus,Double Room with Balcony,1,Jun-22,Group
+Not Reviewed,Not Reviewed,9,Kostas,Greece,Double Room with Balcony,2,Jun-22,Couple
+Not Reviewed,Not Reviewed,8,Witan,Poland,Double Room with Balcony,1,Jun-22,Group
+Not Reviewed,Not Reviewed,10,Gabriel,Israel,Double Room with Balcony,2,Jun-22,Couple
+Not Reviewed,Not Reviewed,9,Khaoula,France,Double Room,1,Jun-22,Group
+Not Reviewed,Not Reviewed,9,Shaul,Israel,Double Room with Balcony,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,8,Martin,Hungary,Double Room,4,Jun-22,Couple
+Not Reviewed,Not Reviewed,9,Fabio,Italy,Double Room with Balcony,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Alfons,Belgium,Double Room,1,May-22,Couple
+Not Reviewed,Not Reviewed,10,Ruiz,France,Double Room,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,8,Rodrigo,Spain,Double Room with Balcony,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Khaoula,France,Double Room,1,Jun-22,Group
+Not Reviewed,Not Reviewed,9,Elena,Latvia,Double Room,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Thanpan,Greece,Double Room,1,Mar-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Jonikas,Cyprus,Budget Twin Room,1,May-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Gruenblattnorwid,Germany,Double Room with Balcony,1,May-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Heike,Austria,Family Suite with Balcony,1,May-22,Group
+Not Reviewed,Not Reviewed,8,Georg,Austria,Double Room,1,May-22,Couple
+Not Reviewed,Not Reviewed,10,Γεωργιοσ,Greece,Double Room with Balcony,1,May-22,Couple
+Not Reviewed,Not Reviewed,10,Nikolett,Hungary,Double Room,2,May-22,Couple
+Not Reviewed,Not Reviewed,9,Benedetta,Italy,Double Room,1,May-22,Couple
+Not Reviewed,Not Reviewed,10,Panagiotis,Greece,Double Room,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,10,Pavel,Czech Republic,Double Room with Balcony,1,May-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Yaaqov,Israel,Double Room with Balcony,1,May-22,Couple
+Not Reviewed,Not Reviewed,8,Julie,Belgium,Double Room with Balcony,1,May-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Anatoly,Russia,Standard Triple Room,1,May-22,Family
+Not Reviewed,Not Reviewed,10,Anna,Greece,Double Room with Balcony,3,May-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Moreno,Cyprus,Double Room,2,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Moreno,Cyprus,Double Room,1,Feb-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Michaela,Czech Republic,Double Room,2,May-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Damian,Germany,Double Room,1,Apr-22,Family
+Not Reviewed,Not Reviewed,8,Virginijus,Lithuania,Double Room with Balcony,2,Apr-22,Couple
+Not Reviewed,Not Reviewed,10,Alex,Ukraine,Double Room with Balcony,2,Apr-22,Family
+Not Reviewed,Not Reviewed,9,Chekhov,Israel,Double Room with Balcony,1,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Francesca,Italy,Family Suite with Balcony,2,Apr-22,Family
+Not Reviewed,Not Reviewed,9,Silvia,Germany,Double Room,1,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Jolly,Germany,Standard Triple Room,1,Apr-22,Family
+Not Reviewed,Not Reviewed,9,Dorte,Denmark,Double Room with Balcony,1,Apr-22,Group
+Not Reviewed,Not Reviewed,9,Stéphane,France,Double Room,1,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,8,Gential,France,Double Room,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,10,András,Hungary,Double Room,2,Apr-22,Couple
+Not Reviewed,Not Reviewed,10,Ina,Norway,Double Room with Balcony,6,Apr-22,Group
+Not Reviewed,Not Reviewed,8,Andrea,Italy,Double Room,1,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Clara,Italy,Double Room,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,9,Armin,Germany,Double Room with Balcony,2,Apr-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Κωνσταντινος,Cyprus,Double Room,2,Apr-22,Couple
+Not Reviewed,Not Reviewed,10,Argyro,Cyprus,Double Room,2,Apr-22,Group
+Not Reviewed,Not Reviewed,10,21krowka,Poland,Double Room with Balcony,2,Apr-22,Couple
+Not Reviewed,Not Reviewed,10,Xenis,Cyprus,Double Room with Balcony,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,9,Georgia,Greece,Family Suite with Balcony,2,Apr-22,Group
+Not Reviewed,Not Reviewed,8,Gloria,Italy,Double Room,2,Feb-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Kristina,Russia,Double Room,2,Mar-22,Solo traveler
+Not Reviewed,Not Reviewed,9,Joost,Netherlands,Double Room,1,Mar-22,Couple
+Not Reviewed,Not Reviewed,10,Israel,Israel,Double Room,2,Feb-22,Group
+Not Reviewed,Not Reviewed,8,Χρύσα,Greece,Double Room with Balcony,1,Feb-22,Group
+Not Reviewed,Not Reviewed,10,Alexandros,Cyprus,Double Room,2,Feb-22,Couple
+Not Reviewed,Not Reviewed,10,Fredrik,Sweden,Family Suite with Balcony,1,Nov-21,Family
+Not Reviewed,Not Reviewed,10,Мария,Russia,Family Suite with Balcony,7,Jan-22,Couple
+Not Reviewed,Not Reviewed,9,David,Czech Republic,Double Room,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,9,Ganna,Germany,Double Room with Balcony,2,Jan-22,Group
+Not Reviewed,Not Reviewed,9,Tatyana,Israel,Double Room,1,Dec-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Ryszard,Poland,Family Suite with Balcony,1,Nov-21,Group
+Not Reviewed,Not Reviewed,8,Martin,Austria,Standard Triple Room,1,Nov-21,Family
+Not Reviewed,Not Reviewed,8,Regine,France,Double Room,1,Nov-21,Couple
+Not Reviewed,Not Reviewed,8,Sigrid,Germany,Double Room with Balcony,1,Nov-21,Couple
+Not Reviewed,Not Reviewed,10,Klaus,Germany,Double Room with Balcony,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,8,Oksana,Latvia,Standard Triple Room,1,Oct-21,Family
+Not Reviewed,Not Reviewed,8,Paolo,Italy,Standard Triple Room,1,Nov-21,Family
+Not Reviewed,Not Reviewed,9,Simona,Czech Republic,Double Room with Balcony,3,Oct-21,Couple
+Not Reviewed,Not Reviewed,10,Anastasia,Russia,Double Room with Balcony,2,Nov-21,Solo traveler
+Not Reviewed,Not Reviewed,10,אלחנן,Israel,Family Suite with Balcony,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,9,Jolanda,Austria,Double Room with Balcony,1,Nov-21,Solo traveler
+Not Reviewed,Not Reviewed,9,Grzegorz,Poland,Double Room,1,Nov-21,Family
+Not Reviewed,Not Reviewed,9,Vasyl,Ukraine,Two-Bedroom Suite,1,Nov-21,Group
+Not Reviewed,Not Reviewed,8,Ruth,Switzerland,Double Room with Balcony,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,9,Chrysoyla,Greece,Double Room with Balcony,3,Nov-21,Couple
+Not Reviewed,Not Reviewed,9,Maxi,Germany,Double Room with Balcony,1,Nov-21,Group
+Not Reviewed,Not Reviewed,8,Jarosław,Germany,Family Suite with Balcony,1,Nov-21,Group
+Not Reviewed,Not Reviewed,8,Сергей,Russia,Double Room with Balcony,7,Oct-21,Couple
+Not Reviewed,Not Reviewed,9,Dominik,Germany,Double Room with Balcony,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,8,Daniel,Germany,Double Room,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,10,Kseniia,Russia,Double Room,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,8,Maria,Cyprus,Double Room,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,10,Puhidze,Russia,Double Room,4,Oct-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Jacques,France,Double Room with Balcony,1,Oct-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Clarence,Italy,Double Room,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,9,Auffray,France,Double Room,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,8,Anja,Denmark,Two-Bedroom Suite,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,10,Gleb,Cyprus,Double Room with Balcony,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,9,Benoit,Belgium,Double Room with Balcony,2,Oct-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Manole,Romania,Double Room with Balcony,3,Oct-21,Group
+Not Reviewed,Not Reviewed,8,Александр,Ukraine,Double Room with Balcony,2,Oct-21,Couple
+Not Reviewed,Not Reviewed,9,Виктор,Russia,Two-Bedroom Suite,14,Sep-21,Family
+Not Reviewed,Not Reviewed,10,Rainer,Austria,Double Room with Balcony,3,Sep-21,Couple
+Not Reviewed,Not Reviewed,9,Sami,Turkey,Double Room with Balcony,1,Oct-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Anna,Russia,Double Room with Balcony,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,10,Марина,Russia,Double Room with Balcony,1,Jul-21,Couple
+Not Reviewed,Not Reviewed,10,Ana,Romania,Standard Triple Room,3,Sep-21,Group
+Not Reviewed,Not Reviewed,10,Kostas,Greece,Standard Triple Room,1,Sep-21,Family
+Not Reviewed,Not Reviewed,10,Yair,Israel,Two-Bedroom Suite,1,Sep-21,Family
+Not Reviewed,Not Reviewed,8,Yara,France,Double Room with Balcony,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,8,Olesya,Ukraine,Double Room,3,Sep-21,Couple
+Not Reviewed,Not Reviewed,8,Svetlana,Russia,Two-Bedroom Suite,1,Sep-21,Family
+Not Reviewed,Not Reviewed,8,Giorgio,Switzerland,Double Room,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,8,Ivan,Ukraine,Double Room with Balcony,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,9,Alexey,Russia,Double Room with Balcony,7,Sep-21,Solo traveler
+Not Reviewed,Not Reviewed,9,Tomas,Czech Republic,Double Room with Balcony,1,Sep-21,Family
+Not Reviewed,Not Reviewed,8,Daniel,Germany,Double Room,1,Aug-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Tekse,Hungary,Double Room with Balcony,1,Sep-21,Group
+Not Reviewed,Not Reviewed,10,Stefan,Czech Republic,Double Room with Balcony,7,Aug-21,Couple
+Not Reviewed,Not Reviewed,10,Elvira,Russia,Standard Triple Room,6,Sep-21,Family
+Not Reviewed,Not Reviewed,9,Alexey,Ukraine,Double Room with Balcony,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,10,Лилия,Russia,Double Room with Balcony,2,Aug-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Aleix,Spain,Double Room with Balcony,1,Jul-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Alexandru,Romania,Standard Triple Room,1,Aug-21,Group
+Not Reviewed,Not Reviewed,8,Lars,Sweden,Double Room with Balcony,2,Aug-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Vasilii,Russia,Standard Triple Room,4,Aug-21,Group
+Not Reviewed,Not Reviewed,10,Toula,Cyprus,Double Room with Balcony,4,Aug-21,Solo traveler
+Not Reviewed,Not Reviewed,10,James,Netherlands,Standard Triple Room,1,Aug-21,Family
+Not Reviewed,Not Reviewed,10,Roman,Ukraine,Double Room with Balcony,2,Aug-21,Couple
+Not Reviewed,Not Reviewed,8,Andri,Cyprus,Double Room with Balcony,3,Aug-21,Couple
+Not Reviewed,Not Reviewed,10,Josef,Czech Republic,Double Room with Balcony,1,Jul-21,Couple
+Not Reviewed,Not Reviewed,10,Malak,Denmark,Double Room with Balcony,1,Aug-21,Family
+Not Reviewed,Not Reviewed,10,Savvas,Cyprus,Double Room with Balcony,1,Aug-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Olena,Ukraine,Double Room with Balcony,7,Aug-21,Solo traveler
+Not Reviewed,Not Reviewed,9,Oleksiy,Ukraine,Standard Triple Room,1,Aug-21,Family
+Not Reviewed,Not Reviewed,10,Daniel,France,Double Room with Balcony,1,Jul-21,Family
+Not Reviewed,Not Reviewed,10,Maeva,France,Standard Triple Room,1,Jul-21,Family
+Not Reviewed,Not Reviewed,10,Maria,Greece,Family Suite with Balcony,1,Aug-21,Group
+Not Reviewed,Not Reviewed,10,Alisa,Israel,Two-Bedroom Suite,1,Jul-21,Family
+Not Reviewed,Not Reviewed,10,Вероника,Russia,Double Room with Balcony,1,Jul-21,Family
+Not Reviewed,Not Reviewed,9,Pavel,Russia,Double Room with Balcony,1,Jul-21,Couple
+Not Reviewed,Not Reviewed,10,Elena,Ukraine,Double Room with Balcony,1,Jun-21,Solo traveler
+Not Reviewed,Not Reviewed,10,Sind,France,Standard Triple Room,1,Jul-21,Family
+Not Reviewed,Not Reviewed,10,Vladěna,Czech Republic,Double Room with Balcony,1,Jul-21,Family
+Not Reviewed,Not Reviewed,8,Daniel,Poland,Double Room with Balcony,11,Jun-21,Group
+Not Reviewed,Not Reviewed,10,Igor,Czech Republic,Double Room with Balcony,1,Jul-21,Family
+Not Reviewed,Not Reviewed,10,Dito,Russia,Double Room with Balcony,1,Jul-21,Family
+Not Reviewed,Not Reviewed,10,Andrea,Cyprus,Double Room with Balcony,1,Jul-21,Group
+Not Reviewed,Not Reviewed,10,Pantelina,Cyprus,Double Room with Balcony,1,Jun-21,Group
+Not Reviewed,Not Reviewed,10,Pinchas,Israel,Double Room with Balcony,1,Jun-21,Couple
+Not Reviewed,Not Reviewed,10,Elyad,Germany,Double Room with Balcony,1,Jun-21,Couple
+Not Reviewed,Not Reviewed,9,Maria,Cyprus,Double Room with Balcony,1,Jun-21,Group
+Not Reviewed,Not Reviewed,10,Claudio,Israel,Standard Triple Room,3,Jun-21,Couple
+Not Reviewed,Not Reviewed,10,Ifigeneia,Greece,Double Room with Balcony,1,Jun-21,Group
+Not Reviewed,Not Reviewed,10,Konstantinos,Cyprus,Double Room with Balcony,1,Jun-21,Solo traveler
+Not Reviewed,Not Reviewed,7,Sergey,Israel,Double Room,1,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,5,Andrii,Ukraine,Budget Twin Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,6,Julia,Switzerland,Double Room with Balcony,1,Nov-22,Couple
+Not Reviewed,Not Reviewed,5,Giulia,Italy,Double Room with Balcony,2,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,7,Xliga,Italy,Double Room with Balcony,4,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,5,Uwe,Germany,Budget Twin Room,1,Oct-22,Couple
+Not Reviewed,Not Reviewed,7,Sylvie,France,Double Room with Balcony,1,Oct-22,Family
+Not Reviewed,Not Reviewed,7,Edward,France,Budget Twin Room,1,Oct-22,Group
+Not Reviewed,Not Reviewed,7,Vasileios,Greece,Double Room with Balcony,4,Oct-22,Group
+Not Reviewed,Not Reviewed,6,Oleksandr,Ukraine,Double Room with Balcony,1,Sep-22,Couple
+Not Reviewed,Not Reviewed,6,Vasproto,Greece,Budget Twin Room,4,Sep-22,Group
+Not Reviewed,Not Reviewed,7,Orly,Cyprus,Double Room with Balcony,2,Sep-22,Couple
+Not Reviewed,Not Reviewed,7,Careddu,Italy,Budget Twin Room,1,Aug-22,Solo traveler
+Not Reviewed,Not Reviewed,7,Yulia,Cyprus,Two-Bedroom Suite,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,1,Mihalis,Cyprus,Double Room,4,Aug-22,Family
+Not Reviewed,Not Reviewed,7,Darío,Spain,Double Room with Balcony,1,Aug-22,Solo traveler
+Not Reviewed,Not Reviewed,7,חגי,Israel,Double Room with Balcony,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,6,Pantelitsa,Cyprus,Double Room with Balcony,1,Jul-22,Couple
+Not Reviewed,Not Reviewed,5,Restynot,Sweden,Double Room with Balcony,1,Aug-22,Family
+Not Reviewed,Not Reviewed,7,Andrii,France,Budget Twin Room,2,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,6,Frieda,Norway,Budget Twin Room,1,Jun-22,Group
+Not Reviewed,Not Reviewed,7,David,France,Double Room,1,Jun-22,Solo traveler
+Not Reviewed,Not Reviewed,7,Máté,Hungary,Double Room,1,Jun-22,Couple
+Not Reviewed,Not Reviewed,6,Paolo,Italy,Double Room,1,Feb-22,Couple
+Not Reviewed,Not Reviewed,7,Vadym,Ukraine,Double Room,1,Jan-22,Couple
+Not Reviewed,Not Reviewed,7,Olena,Ukraine,Double Room with Balcony,4,Oct-21,Couple
+Not Reviewed,Not Reviewed,6,Silvia,Germany,Double Room with Balcony,1,Dec-21,Solo traveler
+Not Reviewed,Not Reviewed,7,Rodolfo,Switzerland,Double Room with Balcony,1,Nov-21,Couple
+Not Reviewed,Not Reviewed,7,Ioannis,Greece,Double Room,1,Nov-21,Solo traveler
+Not Reviewed,Not Reviewed,6,Giannos,Cyprus,Double Room,1,Oct-21,Couple
+Not Reviewed,Not Reviewed,7,Alexey,Russia,Double Room with Balcony,1,Oct-21,Family
+Not Reviewed,Not Reviewed,1,Nikolas,Cyprus,Double Room,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,7,Concetta,Italy,Double Room,1,Aug-21,Couple
+Not Reviewed,Not Reviewed,7,Evgenii,Russia,Double Room with Balcony,1,Sep-21,Couple
+Not Reviewed,Not Reviewed,7,Augustin,France,Double Room with Balcony,1,Aug-21,Couple
+Not Reviewed,Not Reviewed,7,Mohamad,Denmark,Double Room with Balcony,1,Aug-21,Group
+Not Reviewed,Not Reviewed,7,Томозов,Russia,Double Room with Balcony,1,Jun-21,Couple
+Not Reviewed,Not Reviewed,10,Anonymous,Russia,,7,Nov-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Anonymous,Croatia,,4,Sep-22,Couple
+Not Reviewed,Not Reviewed,10,Anonymous,Netherlands,,1,Aug-22,Couple
+Not Reviewed,Not Reviewed,9,Anonymous,Ukraine,,4,Jul-22,Solo traveler
+Not Reviewed,Not Reviewed,10,Anonymous,Iceland,,1,May-22,Family
+Not Reviewed,Not Reviewed,10,Anonymous,Cyprus,,1,Apr-22,Couple
+Not Reviewed,Not Reviewed,8,Anonymous,Germany,,1,Nov-21,Couple
+Not Reviewed,Not Reviewed,9,Anonymous,Romania,,1,Nov-21,Couple
+Not Reviewed,Not Reviewed,9,Anonymous,Sweden,,2,Nov-21,Family
+Not Reviewed,Not Reviewed,9,Anonymous,Poland,,14,Oct-21,Family
+Not Reviewed,Not Reviewed,8,Anonymous,Poland,,2,Oct-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Anonymous,France,,1,Sep-21,Family
+Not Reviewed,Not Reviewed,10,Anonymous,Ukraine,,2,Sep-21,Solo traveler
+Not Reviewed,Not Reviewed,8,Anonymous,Israel,,1,Sep-21,Family
+Not Reviewed,Not Reviewed,10,Anonymous,Israel,,5,Sep-21,Couple
+Not Reviewed,Not Reviewed,9,Anonymous,Czech Republic,,1,Sep-21,Group
+Not Reviewed,Not Reviewed,8,Anonymous,Sweden,,1,Aug-21,Couple
+Not Reviewed,Not Reviewed,9,Anonymous,Germany,,3,Sep-21,Solo traveler
+Not Reviewed,Not Reviewed,6,Anonymous,Austria,,1,Oct-22,Couple
